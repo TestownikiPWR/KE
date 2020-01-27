@@ -1,0 +1,6 @@
+﻿X1010
+Kompatybilność jest pojęciem związanym:
+z nie zakłóconym współistnieniem organizmów żywych w przyrodzie
+z prawidłowym działaniem tych samych programów na różnych komputerach
+z prawidłowym odbiorem sygnału pożądanego w obecności zakłóceń
+ze sposobem przesyłania informacji

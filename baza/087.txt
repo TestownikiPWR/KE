@@ -1,0 +1,6 @@
+﻿X0010
+Amplitudy impulsów napięcia powstające podczas wyładowań elektrostatycznych sięgają:
+100kV/m
+50kV/m
+25kV/m
+500kV/m

@@ -1,0 +1,6 @@
+﻿X0100
+Przewody interfejsowe i zasilania powinny być wprowadzone do obudowy
+dowolnie
+z zachowaniem ciągłości ekranu (ekranowania) 
+przez odpowiednie przeloty rurkowe
+przez prostokątne otwory

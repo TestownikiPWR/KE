@@ -1,0 +1,6 @@
+﻿X0100
+Co to są cęgi absorpcyjne:
+miernik zaburzeń
+transformator prądowy
+układ z kondensatorem
+mała komora TEM

@@ -1,0 +1,6 @@
+﻿X0100
+Wytrzymałość jest to
+minimalny poziom sygnału zaburzającego, który uszkadza badane urządzenie
+poziom sygnału zaburzającego przy którym nie obserwuje się reakcji badanego urządzenia
+maksymalny poziom sygnału zaburzającego przy którym badane działa poprawnie
+reakcja badanego urządzenia na sygnał zaburzajacy

@@ -1,0 +1,6 @@
+﻿X1000
+Jak uniknąć przenikania zakłóceń pomiędzy przewodami:
+poprzez ułożenie ich prostopadle lub maksymalne oddalenie od siebie
+poprzez ułożenie ich równolegle lub minimalne oddalenie od siebie
+poprzez ułożenie w okół badanego urządzenia
+poprzez chaotyczne ułozenie

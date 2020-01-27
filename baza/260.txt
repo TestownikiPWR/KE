@@ -1,0 +1,8 @@
+﻿X011100
+Które ze sformułowań poprawnie opisują zjawisko powstawania i oddziaływania wyładowań typu LEMP? (wybierz trzy odpowiedzi):
+Napięcie zapłonu dla impulsu piorunowego jest rzędu 1000 V.,
+Napięcie zapłonu dla impulsu piorunowego jest rzędu 1 000 000 V,
+Cząstki spadające zyskują ładunek ujemny - zaś unoszące się - ładunek dodatni. W związku z tym ładunki ujemne gromadzą się w dolnej części chmury z kolei dodatnie - w górnej.,
+Piorunowe stany pizejściowe powstają zarówno w wyniku bezpośrednich jak i pośrednich wyladowań typu LEMP - Wykład strona 84 i 85,
+Piorunowe stany przejsciowe powstają tylko w wyniku bezpośrednich wyładowań typu LEMP.,
+Cząstki spadające zyskują ładunek dodatni. zaś unoszące się -ładunek ujemy. W związku z tym ładunki dodatnie gromadzą się w dolnej części chmury. z kolei ujemne - w górnej.,

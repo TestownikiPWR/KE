@@ -1,0 +1,6 @@
+﻿X0001
+Jakie urządzenie służy do pomiaru zakłóceń przewodzonych według CISPR 16:
+analizator widma
+oscylator widma
+pikowoltomierz
+odbiornik pomiarowy

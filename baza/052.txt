@@ -1,0 +1,6 @@
+﻿X0010
+Zastosowanie bransolet zakładanych na rękę i połączonych z uziemieniem
+zapobiega powstawaniu zakłóceń przewodzonych
+minimalizuje amplitudy impulsów ESD
+powoduje odprowadzenie ładunków gromadzących się na ciele człowieka
+zmniejsza czas narostu impulsów ESD

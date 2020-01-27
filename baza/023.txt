@@ -1,0 +1,6 @@
+﻿X0100
+Zadaniem CCIR (Międzynarodowy Doradczy Komitet Radiokomunikacyjny) jest:
+prowadzenie rejestru użytkowanych częstotliwości
+badanie zagadnień technicznych i wydawanie zaleceń eksploatacyjnych z zakresu radiokomunikacji
+wydawanie norm dotyczących dopuszczalnych poziomów zakłóceń radiokomunikacji
+badanie zagadnień związanych z telegrafią i telefonią

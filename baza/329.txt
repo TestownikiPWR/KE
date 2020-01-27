@@ -1,0 +1,6 @@
+﻿X0100
+Gdy praca badanego obiektu jest chwilowo zakłócona, ale obiekt powraca samoczynnie do stanu..
+obiekt nie jest podatny na zakłócenia
+obiekt jest wytrzymały
+poziom ostrości próby nie jest za niski i trzeba go zwiększyć
+obiekt jest odporny na zakłócenia

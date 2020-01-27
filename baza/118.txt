@@ -1,0 +1,6 @@
+﻿X1000
+Aby ograniczyć promieniowanie symulatora z falą prowadzoną do środowiska
+umieszcza się go w terenach trudno dostępny
+wykonuje się go z sieci cienkich przewodów
+umieszcza się go w kotlinach
+wykonuje się go z blach

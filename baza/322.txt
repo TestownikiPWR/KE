@@ -1,0 +1,6 @@
+﻿X0100
+Przewód testowy stosowany podczas badania wrażliwości urządzeń metodą pośrednią umożliwia sprzężenie generat
+korpusem badanego urządzenia
+przewodem zasilającym
+kablem światłowodowym
+torem współosiowym

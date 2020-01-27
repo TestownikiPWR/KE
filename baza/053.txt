@@ -1,0 +1,6 @@
+﻿X1000
+Ochronę przed elektrycznością statyczną w przypadku urządzeń z materiałów nieprzewodzących dokonuje się:
+przez neutralizację
+przez uziemienie
+przez zerowanie
+przez filtrowanie zasilania

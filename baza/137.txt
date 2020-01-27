@@ -1,0 +1,6 @@
+﻿X0001
+Wysokość umieszczenia badanego urządzenia na poligonie pomiarowym podczas pomiaru zaburzeń promieniowanych:
+nie jest definiowana 
+wynosi 1,5 m 
+zależy od warunków eksploatacji urządzenia i jest stawiane na ziemi odniesienia 
+zależy od rozmiarów badanego urządzenia

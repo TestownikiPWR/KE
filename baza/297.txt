@@ -1,0 +1,8 @@
+﻿X101001
+Co symbolizuje znak CE? (wybierz trzy odpowiedzi)
+zgodność wyrobu z wymaganiami Wspólnot Europejskich (WE) nałożonymi na wytwórcę
+zgodność wyrobu z wymaganiami międzynarodowymi w zakresie kompatybilności otoczenia (Compability...)
+spełnianie wszystkich wymagań dyrektyw Europejskich, które mają zastosowanie do wyrobu
+że wyrób został wyprodukowany w Europie spełnia wymagania syrektyw w zakresie EMC
+że wyrób został wyprodukowany w Chinach (China Exports) i spełnia wymagania syrektyw w zakresie EMC
+przeprowadzenie procedury oceny zgodności z wynikiem pozytywnym

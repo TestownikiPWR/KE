@@ -1,0 +1,7 @@
+﻿X00010
+Warości parametrów charakterystycznych impulsów związanych z naziemnym wybuchem jądrowym NEMP należy sprawdzać wyposażeniem:
+100 Hz
+100 kHz
+10 Hz
+1000 MHz
+1 MHz

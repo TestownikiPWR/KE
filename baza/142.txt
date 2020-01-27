@@ -1,0 +1,8 @@
+﻿X100011
+Które z poniższych pojęć dotyczą ekranowania przed polami elektromagnetycznymi? (wybierz 3)
+impedancja sprzężeniowa
+częśtotliwość rezonansowa
+zysk anteny
+tłumienie strat odbicia
+tłumienność sprzężenia
+skuteczność ekranowania

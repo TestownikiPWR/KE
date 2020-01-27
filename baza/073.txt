@@ -1,0 +1,6 @@
+﻿X0100
+Uniezależnienie się od zakłóceń uzyskuje się, gdy ich tłumienie jest nie mniejsze niż:
+10 dB
+30 dB
+20 dB - 50 dB
+40 dB - 30 dB

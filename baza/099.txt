@@ -1,0 +1,6 @@
+﻿X0001
+Zadaniem filtru wstecznego stosowanego na stanowisku do pomiaru odporności urządzeń metodą pośrednią jest:
+sprzęgnięcie generatora z badanym urządzeniem
+zabezpieczenie stanowiska pomiarowego przed oddziaływaniem zakłóceń
+filtr wsteczny nie wystepuje na stanowisku pomiarowym
+zabezpieczenie przed przenikiem impulsu testowego do nie badanych urządzeń

@@ -1,0 +1,5 @@
+﻿X1000
+Które zdanie jest prawdziwe i dotyczy poligonu pomiarowego:
+Uprzedmiot należy obracać od 0 do 360stopni
+przedmiot należy obracać od 0 do 180 stopnidokonuje się na nim pomiaru mocy promieniowanej
+dokonuje się na nim pomiaru promieniowanego napięcia

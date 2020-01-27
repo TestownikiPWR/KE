@@ -1,0 +1,6 @@
+﻿X0001
+Intensywność szumów atmosferycznych:
+rośnie z częstotliwością
+jest stała w funkcji częstotliwości
+rośnie ekspotencjalnie z częstotliwością
+maleje z częstotliwością

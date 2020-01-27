@@ -1,0 +1,6 @@
+﻿X0100
+Obudowa urządzeń:
+nie ma wpływu na właściwości urządzenia
+jest zasadniczą barierą przeciwko EMI
+powinna byc dielekryczna
+musi byc wyposażona w otwory wentylacyjne

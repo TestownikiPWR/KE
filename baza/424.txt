@@ -1,0 +1,7 @@
+﻿X00110
+Generator udarowt 1,2/50 i 8/20 mikrosekund może być sprzęgany przewodami podłączonymi...
+cęgi elektromagnetyczne
+cęgi absorbcyjne
+kondensator sprzęgający
+transformator prądowy 
+klamrę pojemnościową 

@@ -1,0 +1,6 @@
+﻿X0010
+Skuteczność filtru określa:
+Tłumienność odbiciowa
+Progowe tłumienie napięcia
+Tłumienność wtrąceniowa
+Maksymalne napięcie na wejściu

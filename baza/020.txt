@@ -1,0 +1,6 @@
+﻿X0010
+Amplitudowy rozkład prawdopodobieństwa intensywności szumów dla małych amplitud ma w skali logarytmicznej:
+log-normalny
+Rice'a
+Rayleigha
+normalny

@@ -1,0 +1,6 @@
+﻿X1000
+Impuls napięcia 1,2/50us stosowany jest podczas badania odporności na urządzenia:
+metoda pośrednia (od strony linii zasilającej)
+metodą bezpośrednią 
+metodą pośrednią (od strony zacisków antenowych)
+metodą pośrednią (od strony toru transmisyjnego)

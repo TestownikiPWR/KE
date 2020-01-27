@@ -1,0 +1,6 @@
+﻿X0111
+Przewód testowy umożliwia sprzężenie generatora udarowego z:
+torem współosiowym
+przewodami interfejsowymi
+badanym urządzeniem
+przewodami zasilającymi

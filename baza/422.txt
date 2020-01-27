@@ -1,0 +1,6 @@
+﻿X1000
+W przypadku pomiaru pole elektromagnetycznego za pomocą anteny liniowej, większa jest:
+składowa elektryczna
+składowa magnetyczna
+składowa elektromagnetyczna
+nie ma znaczenia

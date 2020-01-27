@@ -1,0 +1,6 @@
+﻿X0001
+Ziemie/płytę odniesienia (lub coś podobnego) łączymy :
+dwoma rezystorami 470k
+dwoma rezystorami 100k
+jednym rezystorem 470k lub 100k
+uziemiamy

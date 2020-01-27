@@ -1,0 +1,6 @@
+﻿X0001
+Jakie określenie nie odnosi się do sieci sztucznej:
+stabilizuje napięcie sieciowe
+jest połączeniem urządzenia sprzęgającego i odsprzęgającego
+stabilizuje impedancje obwodów dołączonych do badanych obiektów
+musi być połączona z płytą sztucznej ziemi

@@ -1,0 +1,6 @@
+﻿X0001
+Zaburzenia przewodzone domniują w zakresie częstotliwości:
+300MHz - 1GHz
+do 10 kHz
+150kHz - 27MHz
+150kHz - 30MHz

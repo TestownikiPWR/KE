@@ -1,0 +1,7 @@
+﻿X00100
+Wartość parametrów charakterystycznych prądu wyładowania ESD o czasie narostu impulsu od 0.7 do 1ns należy sprawdzać wyposarzeniem o szerokości pasma:
+1 MHz
+100 kHz
+1000 MHz
+1 Hz
+100 Hz

@@ -1,0 +1,6 @@
+﻿X0100
+Ochronę stanowisk komputerowych przed elektrycznością statyczną zapewnia się przez:
+stosowanie ekranowania
+uziemienie zestawu komputerowego (łącznie z klawiaturą)
+zastosowanie filtrów przeciwzakłóceniowych
+umieszczenie takich stanowisk w pomieszczeniach ekranowanych

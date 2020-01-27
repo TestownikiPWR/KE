@@ -1,0 +1,6 @@
+﻿X0001
+Zgodnie z normą PN-86/E-06600: zdolność pracującego urządzenia do zachowania swoich właściwości poprawnego działania, przy oddziaływaniu określonych zakłóceń lub umownego sygnału testowego to:
+kompatybilność elektromagnetyczna
+podatność urządzenia na zakłócenia
+charakterystyka emisyjności
+odporność urządzenia na zakłócenia

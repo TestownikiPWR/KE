@@ -1,0 +1,6 @@
+﻿X0010
+Impuls napięcia powstający podczas wyładowania elektrostatycznego charakteryzuje się czasem narastania:
+powyżej nanosekund
+rzędu mikrosekund
+rzędu nanosekund
+poniżej nanosekund

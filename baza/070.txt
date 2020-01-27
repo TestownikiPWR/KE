@@ -1,0 +1,6 @@
+﻿X0111
+Zaleca się wykonywanie pomiarów pól zakłócających w odległościach:
+1m
+3m
+10m
+30m

@@ -1,0 +1,6 @@
+﻿X1010
+Impuls napięcia 1,2/50 us stosowany jest podczas badania wrażliwości urządzenia:
+Metodą pośrednią na zaburzenia rozchodzące się w torach sygnałowych
+Metodą bezpośrednią
+Metodą pośrednią na zaburzenia rozchodzące się w przewodach interfejsowych
+Metodą pośrednią na zaburzenia rozchodzące się w przewodach antenowych

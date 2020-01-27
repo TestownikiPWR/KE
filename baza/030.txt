@@ -1,0 +1,6 @@
+﻿X0001
+Zakłócenia promieniowane przenoszone są przez:
+przewody zasilające
+linie sygnałowe
+falowody
+pole elektromagnetyczne

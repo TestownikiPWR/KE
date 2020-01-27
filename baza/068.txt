@@ -1,0 +1,6 @@
+﻿X0001
+Sieć sztuczna typu V jest stosowana do pomiarów napięcia zakłóceń:
+pomiędzy przewodami zasilania
+dla prądów > 100A
+tylko dla napięcia zasilającego 380V
+pomiędzy każdym z przewodów zasilania a masą

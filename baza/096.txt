@@ -1,0 +1,6 @@
+﻿X1000
+Bezpośrednia metoda badania odporności urządzeń na impulsowe narażenia elektromagnetyczne polega na:
+umieszczeniu badanego urządzenia w impulsowym polu elektromagnetycznym
+podaniu na wejście sygnałowe impulsu napięcia lub prądu o znormalizowanych parametrach  
+podaniu na przewód zasilający impulsu napięcia lub prądu o znormalizowanych parametrach
+umieszczeniu badanego urządzenia w klatce Faradaya

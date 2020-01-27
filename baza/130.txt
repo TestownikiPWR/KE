@@ -1,0 +1,6 @@
+﻿X0010
+Podatność jest to:
+poziom sygnału zakłócającego przy którym nie obserwuje się reakcji BU
+minimalny poziom sygnału zakłócającego, który uszkadza BU
+reakcja badanego urządzenia na sygnał zakłócający
+maksymalny poziom sygnału zakłócającego przy którym BU działa poprawnie

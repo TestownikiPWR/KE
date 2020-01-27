@@ -1,0 +1,6 @@
+﻿X0010
+W najszerszym zakresie częstotliwości do pomiarów kompatybilności elektromagnetycznej sprzętu może być wykorzystywane stanowisko:
+w komorze ekranowanej
+w komorze bezodbiciowej
+w swobodnej przestrzeni
+w komorze TEM

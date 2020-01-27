@@ -1,0 +1,6 @@
+﻿X1000
+Wzór na stopieñ protekcji systemu ps 
+ps=Ed/Ep > 1
+ps=Ed/Ep = 1
+ps=Ed/Ep < 1
+ps=Ed/Ep <= 1

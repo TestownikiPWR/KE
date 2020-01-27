@@ -1,0 +1,6 @@
+﻿X0001
+Generator udarowy 10/700 ns może być sprzęgany z BU poprzez:
+transformator prądowy
+kondensator sprzęgający 33 nF
+kondensator sprzęgający 16uF
+przewód testowy

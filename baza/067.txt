@@ -1,0 +1,6 @@
+﻿X1000
+Sieci sztuczne stosuje się do pomiarów napięcia zakłóceń w zakresie częstotliwości:
+10kHz - 300MHz
+0Hz - 300MHz
+30MHz - 300MHz
+10kHz - 1GHz

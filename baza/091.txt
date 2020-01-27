@@ -1,0 +1,6 @@
+﻿X0100
+Czasy narostu impulsów  pola elektromagnetycznego  po przejściu przez ekran wykonany z metalu:
+zmieniają się (wydłużają lub skracają) zależnie od przewodności materiału
+wydłużają się
+nie ulegają zmianie
+skracają się

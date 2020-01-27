@@ -1,0 +1,6 @@
+﻿X1000
+Miarą przestrzeni widmowej wg Berry'ego jest:
+iloczyn (szerokość pasma)x(przestrzeń)x(czas)
+iloraz (szerokość pasma)/(przestrzeń)/(czas)
+iloczyn (szerokość pasma)x(czas)
+zajmowane pasmo częstotliwości

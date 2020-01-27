@@ -1,0 +1,6 @@
+﻿X0100
+Oznaczenia stref ochronnych- barwa tła znaku żółta, małe koło czerwone:
+Strefa pośrednia.
+Strefa zagrożenia.
+Strefa niebezpieczna.
+Strefa bezpieczna.

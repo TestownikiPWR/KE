@@ -1,0 +1,6 @@
+﻿X1000
+Impuls prądu powstający podczas wyładowania elektrostatycznego charakteryzuje się czasem narastania:
+Rzędu nanosekund
+Powyżej nanosekund
+Rzędu mikrosekund
+Poniżej mikrosekund

@@ -1,0 +1,6 @@
+﻿X1000
+Jaka jest maksymalna wysokość anteny przy pomiarze emisyjności z odległości 30m na poligonie pomiarowym:
+6m
+3m
+12m
+4m

@@ -1,0 +1,6 @@
+﻿X0100
+Co się nie zdarza w czasie badania poziomu podatności obiektu na zakłócenie elektromagnetyczne
+jakaś reakcja pracującego obiektu,
+zmiana detektora szczytowego detektorem quasi-szczytowym,
+brak reakcji pracujęcego obiektu,
+trwałe uszkodzenie obiektu,

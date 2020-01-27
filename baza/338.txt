@@ -1,0 +1,6 @@
+﻿X0100
+Źródłem impulsów pola elektromagnetycznego o czasach narastania rzędu setek pikosekund są:
+wyładowania atmosferyczne
+wyładowania elektrostatyczne
+wybuchy nuklearne
+procesy łączeniowe w liniach energetycznych

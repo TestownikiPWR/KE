@@ -1,0 +1,6 @@
+﻿X0110 
+Pomiary pola zakłóceń wg. CISPR (Publ. 22) wykonuje się w odległości:
+10 m - klasa A
+30 m - klasa A
+10 m - klasa B
+30 m - klasa B

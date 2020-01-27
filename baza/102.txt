@@ -1,0 +1,6 @@
+﻿X0100
+Sonda z małą elektrycznie podwójnie obciążoną anteną ramową wmontowaną w dolną płytę symulatora równoległopłytowego umożliwia:
+tylko pomiar pola magnetycznego
+niezależny pomiar natężenia pola elektrycznego i natężenia pola magnetycznego
+tylko pomiar gęstości strumienia mocy
+tylko pomiar pola elektrycznego

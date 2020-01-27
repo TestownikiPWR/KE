@@ -1,0 +1,6 @@
+﻿X1001
+Stosunek E/H >377 om, co z tego wynika(zaznacz 2):
+dominuje pole elektryczne,
+dominuje pole magnetyczne,
+coś ze sprzężeniem indukcyjnym
+coś ze sprzężeniem pojemnościowym

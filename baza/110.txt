@@ -1,0 +1,6 @@
+﻿X0010
+Jaka powinna byc wysokość symulatora równoległopłytowego aby można było mierzyć odporność obiektu o wysokości 5m
+5m
+20m
+15m
+10m

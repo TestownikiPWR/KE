@@ -1,0 +1,6 @@
+﻿X0010
+Podczas badania wrażliwości urządzeń na impulsy typu "surge".
+Impulsów typu "surge" nie stosuje się do badania wrażliwości urządzeń
+można tylko zakłócić pracę badanego urządzenia
+można uszkodzić trwale badane urządzenie
+nie można trwale uszkodzić badanego urządzenia

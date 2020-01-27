@@ -1,0 +1,6 @@
+﻿X0110
+Integralną częścią urządzenia sprzęgająco -separującego jest:
+przewód testowy
+kondensator
+filtr wsteczny
+generator impulsów testujących 

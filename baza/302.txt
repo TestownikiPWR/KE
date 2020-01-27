@@ -1,0 +1,8 @@
+﻿X000101
+Przy analizie procesu detekcji informacji użytecznej definiujemy następujące pojęcia (wybierz dwie)
+kanał
+kradzież informacji
+przeciek
+kanał podstawowy
+kanał ujawniający
+kanał transmisyjny

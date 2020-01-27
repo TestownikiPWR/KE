@@ -1,0 +1,6 @@
+﻿X0111
+Amplituda napięcia indukowanego długim odcinku linii napowietrznej pod wpływem oddziaływania pola powstającego podczas wyładowania atmosferycznego zależy od:
+wysokości zawieszenia linii napowietrznej
+czasu narastania impulsu prądu wyładowania
+amplitudy prądu płynącego w kanale wyładowania
+obciążenia linii napowietrznej

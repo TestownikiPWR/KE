@@ -1,0 +1,6 @@
+﻿X0110
+Czy zakłócenia promieniowane określamy na podstawie
+pomiaru za pomocą sieci sztucznej
+pomiaru w komorze bezodbiciowej
+pomiaru na poligonie, w tzw. swobodnej przestrzeni
+wstrzykiwania impulsów

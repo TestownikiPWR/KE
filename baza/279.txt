@@ -1,0 +1,6 @@
+﻿X0100
+Sondy napięciowe mierzą zaburzenia przewodzone na kablach zasilających urządzenia gdy:
+sygnał zaburzeń przewodzonych jest bardzo mały,
+w kablach zasilających urządzenie płyną bardzo duże prądy,
+można dołączyć sondę do wejścia sieci sztucznej,
+brak płyty sztucznej ziemi,

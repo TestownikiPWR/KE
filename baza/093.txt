@@ -1,0 +1,6 @@
+﻿X0100
+Największe zarejestrowane, w odległości kilku metrów, wartości natężenia pola atmosferycznego podczas wyładowań atmosferycznych wynoszą:
+100kV/m
+400kV/m
+800kV/m
+1kV/m

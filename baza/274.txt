@@ -1,0 +1,6 @@
+﻿X0110
+Do badania podatności urządzeń na udary możemy korzystać z (wybierz 2 odpowiedzi):
+analizatora widma,
+komory GTEM,
+sieci sztucznej,
+detektorów zdefiniowanych w CISPR 16,

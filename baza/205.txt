@@ -1,0 +1,6 @@
+﻿X0100
+Z jakiego materiału powinien być wykonany stoliczek w komorze TEM:
+obojętnie
+dielektryk
+przewodzącego
+plastiku

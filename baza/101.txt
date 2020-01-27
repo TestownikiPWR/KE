@@ -1,0 +1,6 @@
+﻿X0100
+Antena liniowa wmontowana w dolną płytę symulatora równoległopłytowego umożliwia na pomiar:
+pola magnetycznego i pola elektrycznego
+pola elektrycznego
+gęstości strumienia mocy
+pola magnetycznego

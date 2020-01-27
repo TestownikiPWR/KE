@@ -1,0 +1,6 @@
+﻿X0010
+Metoda Fromy jest użyteczna przy pomiarze
+natężeniu pola elektromagnetycznego na poligonie pomiarowym
+mocy promieniowanej dla urządzeń promieniujących przez dołączone kable
+mocy promieniowanej dla urządzeń promieniujących przez obudowę
+natężenie pola elektromagnetycznego w komorze rewerberacyjnej

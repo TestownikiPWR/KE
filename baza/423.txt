@@ -1,0 +1,6 @@
+﻿X0100
+Częstotliwość pomiaru na poligonie pomiarowym:
+jest tym mniejsza, im mniejsze są oczka w siatce
+jest większa w miarę zmniejszania oczek w siatce
+cos ze strefą Fresnela
+jest różna

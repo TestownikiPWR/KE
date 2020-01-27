@@ -1,0 +1,6 @@
+﻿X0100
+W bezpośrednim otoczeniu symulatora impulsów elektromagnetycznych wykorzystującego antenę ramową:
+dominuje składowa elektryczna pola
+dominuje składowa magnetyczna pola
+składowe pola EM są sobie równe
+nie występuje pole EM

@@ -1,0 +1,6 @@
+﻿X0001
+Maksymalne napięcie do jakiego człowiek może się naładować wynosi:
+10kV
+20kV
+30kV
+40kV

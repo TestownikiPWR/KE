@@ -1,0 +1,6 @@
+﻿X1000
+Cęgi absorpcyjne służą do pomiarów:
+mocy zakłóceń
+prądów zakłóceń
+napięć zakłóceń
+natęzenia pola zakłóceń

@@ -1,0 +1,6 @@
+﻿X1000
+Wysokość zawieszenia anten przy pomiarach w odległościach 10m i 30m:
+różnią się
+nie różnią się
+mają wysokosć 15 m
+mają wysokosc 22 m

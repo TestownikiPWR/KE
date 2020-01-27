@@ -1,0 +1,6 @@
+﻿X0010
+Symulatory promieniujące stosuje się do badania:
+podatności urządzeń
+emisyjności urządzeń
+odporności urządzeń
+tłumienności ekranowania

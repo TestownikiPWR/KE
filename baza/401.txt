@@ -1,0 +1,7 @@
+﻿X00100
+Najmniej odporne na wyładowania elektrostatyczne są półprzeowdnikowe struktury i tranzystory typu:
+Diody Schottkyego
+Tranzystory bipolarne
+MOS (Metal-Oxide-Semiconductor)
+Rezystory cienko- i grubowarstwowe
+TTL(Transistor-Transiostor Logic)

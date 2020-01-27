@@ -1,0 +1,6 @@
+﻿X1000
+Względnie duże natężenia PEM w komorze rewerberacyjnej uzyskuje się dzięki:
+wykorzystaniu efektów rezonansowych,
+skutecznemu tłumieniu fal odbitych,
+stosowaniu anten o dużym zysku energetycznym,
+stosowanie skutecznych algorytmów poprawy stosunku sygnał/szum,

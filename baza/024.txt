@@ -1,0 +1,6 @@
+﻿X0001
+Zagadnieniami dotyczącymi zakłóceń przemysłowych w zakresie częstotliwości od 10kHz do 1GHz zajmuje się:
+IFRB
+CCIR
+CCITT
+CISPR

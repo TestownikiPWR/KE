@@ -1,0 +1,6 @@
+﻿X1000
+Ziemię odniesienia w pomiarach kompatybilności stosuje się w celu:
+standaryzacji impedancji i zapewnienia jednakowych warunków propagacji fal
+ułatwienia poruszania się obsłudze
+eliminacji zakłóceń
+uzyskania filtracji zakłóćeń

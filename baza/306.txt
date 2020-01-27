@@ -1,0 +1,6 @@
+﻿X0100
+Klamra pojemnościowa służy do sprzęgnięcia udaru testowego z:
+torami światłowodowymi
+z przewodem zasilającym badanego urządzenia
+przewodem interfejsowym badanego urządzenia
+przewodem antenowym badanego urządzenia

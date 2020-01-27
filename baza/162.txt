@@ -1,0 +1,6 @@
+﻿X1100
+Generator udarowy 1,2/50 nanosekund może być sprzęgany z przewodami dołączonymi do badanego (???):
+Transformator prądowy
+Kondensator sprzęgający o pojemności 16 mikrofaradów
+Bezpośrednie podłączenie do zacisków wejściowych badanego urządzenia
+Klamrę pojemnościową

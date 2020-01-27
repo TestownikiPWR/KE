@@ -1,0 +1,6 @@
+﻿X0100
+Karoseria samochodowa tłumi zakłócenia o:
+<10 dB
+15  dB
+>20 dB
+prawie nie tłumi

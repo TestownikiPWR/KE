@@ -1,0 +1,6 @@
+﻿X1010
+Badania odporności urządzeń elektronicznych na wyładowania elektrostatyczne prowadzone są zgodnie z wymaganiami stawianymi:
+przez normy IEC
+przez normy MIL
+przez normy PN
+przez normy CISPR

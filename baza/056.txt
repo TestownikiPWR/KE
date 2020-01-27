@@ -1,0 +1,6 @@
+﻿X1000
+Zgodnie z najnowszymi normami czas narostu impulsu ESD wytwarzanego przez symulator
+jest nie większy niż 1 ns
+nie ma znaczenia
+wynosi 1 ms
+jest większy od 1 s

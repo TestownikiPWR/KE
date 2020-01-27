@@ -1,0 +1,6 @@
+﻿X0001
+Badanie odporności urządzeń elektronicznych na wyładowania atmosferyczne metodą pośrednią polega na:
+wstrzykiwaniu impulsów napięcia
+badaniu w symulatorze promieniującym
+badaniu w symulatorze równoległopłytowym
+wstzrykiwaniu impulsów prądu

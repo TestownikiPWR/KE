@@ -1,0 +1,6 @@
+﻿X0010
+Generator udarowy 5/50 nanosekund może być sprzęgany z przewodami dołączonymi do badanego:
+kondensator sprzęgający o pojemności 16 mikrofaradów,
+bezpośrednio do zacisków wejściowych badanego urządzenia,
+klamrę pojemnościową,
+transformator prądowy,

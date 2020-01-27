@@ -1,0 +1,6 @@
+﻿X0100
+Różnice między pomiarami na poligonie, a w komorze:
+Żadne,
+Uwzględnić trzeba funkcję przejścia,
+Uwzględnić eksponentę,
+Ta odpowiedź jest niepoprawna,

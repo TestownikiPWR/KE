@@ -1,0 +1,6 @@
+﻿X0001
+Sonda z pojedynczo obciążoną anteną ramową wmontowaną w dolną płytę symulatora równoległopłytowego umożliwia pomiar:
+pola elektrycznego
+pola elektrycznego i pola magnetycznego
+gęstości strumieni mocy
+pola magnetycznego

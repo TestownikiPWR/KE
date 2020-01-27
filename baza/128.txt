@@ -1,0 +1,6 @@
+﻿X0010
+Działalność człowieka powoduje powstanie w środowisku pożądanych pól elektromagnetycznych związanych z:
+promieniowaniem heterodyn odbiorników
+promieniowaniem diatermi
+promieniowaniem terminali telefonii komórkowej
+wyładowaniami elektrostatycznymi

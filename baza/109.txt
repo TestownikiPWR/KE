@@ -1,0 +1,6 @@
+﻿X0100
+Czy komora GTEM może byc wykorzystana do badania odporności urządzeń na narażenia elektromagnetyczne:
+nie
+tak
+---
+---

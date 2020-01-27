@@ -1,0 +1,6 @@
+﻿X0100
+Współczynnik SAR jest:
+miarą prądu indukowanego
+miarą wewnętrzna
+miarą natężenia pola elektromagnetycznego
+miarą zewnętrzną

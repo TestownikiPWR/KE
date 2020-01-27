@@ -1,0 +1,6 @@
+﻿X1000
+Przewód testowy stosowany podczas badania wrażliwości urządzeń metodą pośrednią umożliwia sprzężenie generatora udarowego z:
+przewodem zasilającym
+korpusem badanego urządzenia
+kablem światłowodowym
+torem współosiowym

@@ -1,0 +1,6 @@
+﻿X1100
+Na płytkach drukowanych należy:
+przeznaczać duże płaszczyzny na masy
+oddzielnie prowadzić masy sygnałów analogowych i cyfrowych
+dowolnie rozmieszczać elementy analogowe i cyfrowe
+uziemiać wszystkie typy obwodów w jednym punkcie

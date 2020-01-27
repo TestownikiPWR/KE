@@ -1,0 +1,6 @@
+﻿X0100
+Czas trawina impulsu powstającego podczas wybuchu na dużej wysokości:
+poniżej kilku ns
+kilkaset ns
+powyżej kilku ns
+kilkanascie ns

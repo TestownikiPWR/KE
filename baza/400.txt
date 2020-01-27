@@ -1,0 +1,6 @@
+﻿X0010
+Zaburzenia przewodzone przenikają do obwodu układu zakócanego wówczas gdy:
+zaburzenia nie są symetryczne
+sieć sztuczna nie jest połączona płytą sztucznej ziemi
+zaburzenia są symetryczne
+istenie sprzężenie pojemnościowe ze źródłem zakłóceń

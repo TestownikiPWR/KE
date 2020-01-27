@@ -1,0 +1,6 @@
+﻿X1000
+Jaki wymiar powinien mieć stolik na poligonie pomiarowym:
+zależny od wcześniej ustalonego ciężaru badanego urządzenia
+2m x 2m
+stały dla każdego urządzenia
+5m x 5m

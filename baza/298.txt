@@ -1,0 +1,7 @@
+﻿X01000
+Typowe poziomy odporności urządzeń na wyładowania powietrzne ESO wymagane dla "środowiska przemysłowego" i "mieszkalnego, handlowego i lekko uprzemysłowionego wynoszą
++/- 11 kv
++/- 8 kv
++/- 4 kv
++/- 6 kv
++/- 15 kv

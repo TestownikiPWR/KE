@@ -1,0 +1,6 @@
+﻿X1000
+Mocując do urządzenia zacisk uziemiający
+należy go umieścić jak najdalej wejścia sygnałowego
+należy go umieścić jak najbliżej wejścia sygnałowego
+należy zastosować dwa zaciski uziemiające jeden najbliżej drugi najdalej wejścia sygnałowego
+można go dowolnie umieścić

@@ -1,0 +1,6 @@
+﻿X0100
+Znaczne obniżenie wartości napięć wywołanych wyładowaniami atmosferycznymi w przewodach umieszczonych w budynku można osiągnąć:
+Przez tworzenie dużych pętli z układanych przewodów
+Przez zastosowanie ścian o dużej skuteczności ekranowania
+Poprowadzenie przewodów równolegle do instalacji odgromowej
+Poprowadzenie przewodów po zewnętrznej ścianie budynku

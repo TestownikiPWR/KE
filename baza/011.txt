@@ -1,0 +1,6 @@
+﻿X0110
+Efektywne wykorzystanie przestrzeni widmowej uzyskuje się przez:
+zwiększanie mocy nadajników 
+odpowiedni przydział częstotliwości
+maksymalizację zasięgów stacji nadawczych
+zwiększanie czułości odbiorników

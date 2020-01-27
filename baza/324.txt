@@ -1,0 +1,6 @@
+﻿X1000
+Płaszczyznę sprzegającą w badaniach wrażliwości na pośrednie oddziaływanie wyładowań elektrostatycznych:
+łączy się z ziemią odniesienia przewodem zawierającym dwa rezystory po 470 kioomów
+uziemia się
+łączy się z ziemią odniesienia przewodem zawierającym dwa rezystory po 100 kiloomów
+łączy się z ziemią odniesienia przewodem zawierającym rezystor 470 kiloomów

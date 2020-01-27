@@ -1,0 +1,6 @@
+﻿X0010
+Działalność IFRB dotyczy:
+dopuszczalnych poziomów emitowanych przez sprzęt elektroniczny powszechnego uzytku
+wydawania zaleceń umożliwiających planowanie sieci radiokomunikacyjnych
+prowadzenia rejestru parametrów wszystkich pracujących stacji nadawczych
+opracowania metod pomiarów pól wzorcowych

@@ -1,0 +1,6 @@
+﻿X1110
+Źródłem zakłóceń promieniowanych w samochodzie są:
+układ zapłonowy
+silnik wycieraczek
+wentylator
+instalacja oświetlająca (światła drogowe)

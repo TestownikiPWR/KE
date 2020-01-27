@@ -1,0 +1,6 @@
+﻿X0010
+Wartość szczytowa  prądu podczas głównego wyładowania atmosferycznego sięga:
+10kA
+2kA
+200kA
+1000kA

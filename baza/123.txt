@@ -1,0 +1,6 @@
+﻿X0001
+W sondach do pomiaru natężenia  pola elektromagnetycznego w polu bliskim mozna stosować anteny:
+o rozmiarach bez ograniczeń
+anteny o rozmiarach rezonansowych
+anteny długie elektrycznie
+anteny krótkie elektrycznie

@@ -1,0 +1,6 @@
+﻿X1001
+Najprostszym sposobem eliminacji zakłóceń przedostających się do urządzenia przewodem zasilającym jest:
+zastosowanie warystorów
+zastosowanie filtru górnoprzepustowego
+zastosowanie filtru środkowoprzepustowego
+zastosowanie filtru dolnoprzepustowego

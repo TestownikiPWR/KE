@@ -1,0 +1,6 @@
+﻿X0010
+Pomiar zaburzeń promieniowanych na otwartym poligonie pomiarowym wymaga
+pomiaru natężenia pola magnetycznego
+pomiaru promieniowanej mocy pola elektromagnetycznego
+pomiaru natężenia pola elektrycznego na częstotliwościach z pasma pomiarowego
+obrotu badanego urządzenia w zakresie kątów od 0 do 180 stopni

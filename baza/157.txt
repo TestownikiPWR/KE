@@ -1,0 +1,6 @@
+﻿X0100
+Amplitudy impulsów pola elektrycznego Ziemi powstających podczas wybuchu jądrowego na dużej wysokości sięgają:
+15 kV/m
+50 kV/m  (taka jest zalecana do obliczeń wartość, bo sięgają do 100kV/m)
+200 kV/m
+8 kV/m

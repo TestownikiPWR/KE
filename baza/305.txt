@@ -1,0 +1,6 @@
+﻿X1000
+Oczko w ażurowej płycie ziemi odniesienia na otwartym poligonie pomiarowym powinno być:
+mniejsza niż 0.1 długości fali odpowiadająca maksymalnej częstotliwości pomiarowej
+większa niż 0.1 długości fali promieniowanego pola odpowiadająca minimalnej częstotliwości pomiarowej
+płyta ziemi odniesienia powinna być wykonana z litej blachy
+płyta ziemi odniesienia nie może być wykonana z siatki

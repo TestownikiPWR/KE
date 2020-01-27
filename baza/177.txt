@@ -1,0 +1,6 @@
+﻿X0010
+Jak się wytłumia zakłócenia pochodzące z przewodów na poligonie (???):
+filtr górno-pasmowy
+filtr pasmowo-przepustowy 
+nie tłumimy
+filtr dolnoprzepustowy

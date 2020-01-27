@@ -1,0 +1,6 @@
+﻿X0010
+Do pomiarów prądów zakłóceń stosuje się:
+cęgi absorpcyjne
+sieć sztuczną
+transformator prądowy
+anteny ramowe

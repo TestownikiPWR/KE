@@ -1,0 +1,6 @@
+﻿X0001
+Do jakiej częstotliwości możemy mierzyć za pomocą poligonu pomiarowego:
+30 MHz
+1000 MHz
+dąży do zera
+dąży do nieskończoności

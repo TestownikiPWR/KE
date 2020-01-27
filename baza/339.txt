@@ -1,0 +1,6 @@
+﻿X0100
+Czy komora GTEM może być wykorzystana do badania wrażliwości urządzeń na narażenia elektromagnetyczne:
+tylko na ciągłe pola elektromagnetyczne
+na ciągłe i impulsowe pola elektromagnetyczne 
+tylko na impulsowe pola elektromagnetyczne
+nie

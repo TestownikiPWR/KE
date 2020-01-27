@@ -1,0 +1,6 @@
+﻿X1100
+Zakłócenia impulsowe są generowane przez:
+zapłon silników spalinowych
+wyładowania w lampach gazowych
+lokalne oscylatory pola elektromagnetycznego
+dlatermie

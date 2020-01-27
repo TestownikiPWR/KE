@@ -1,0 +1,6 @@
+﻿X0100
+Urządzenia, które ze względu na poziom emitowanych zaburzeń do środowiska są wolne od ograniczeń w użytkowaniu i sprzedaży są klasy:
+B
+A
+D
+C

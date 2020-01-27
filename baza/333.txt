@@ -1,0 +1,6 @@
+﻿X0100
+Bezpośrednia metoda badania wrażliwości urządzeń na ciągłe pole elektromagnetyczne polega na:
+Podaniu na wej. sygnałowe impulsu napięciowego o postaci ciągłej fali modulowanej tonem 1 kHz
+Umieszczeniem badanego urządzenia w przestrzeni pomiarowej symulatora równoległopłytowego gen. udarów napięciowych
+Umieszczeniem badanego urządzenia w przestrzeni pomiarowej symulatora równoległopłytowego gen. fali ciągłej
+Umieszczeniem badanego urządzenia w przestrzeni pomiarowej komory GTEM pobudzanej gen. fali ciągłej

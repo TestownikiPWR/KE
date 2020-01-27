@@ -1,0 +1,6 @@
+﻿X0100
+Sieć sztuczna typu delta umożliwia pomiar:
+Tylko napięć asymetrycznych zaburzeń elektromagnetycznych
+Napięć symetrycznych i niesymetrycznych zaburzeń elektromagnetycznych
+Tylko napięć symetrycznych zaburzeń elektromagnetycznych
+Tylko napięć niesymetrycznych zaburzeń elektromagnetycznych

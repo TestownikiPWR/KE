@@ -1,0 +1,6 @@
+﻿X0001
+Szerokopasmowa sonda z anteną liniową umieszczona w polu bliskim umożliwia pomiar:
+pola magnetycznego
+gęstości strumienia mocy
+pola magnetycznego i pola elektrycznego
+pola elektrycznego

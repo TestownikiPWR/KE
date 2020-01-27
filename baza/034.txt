@@ -1,0 +1,6 @@
+﻿X1011
+Analizator trzasków umozliwia pomiar nastepujących parametrów trzasków:
+Amplitudy
+Widma
+czasu trwania
+czasu przerwy i częstości powtarzania

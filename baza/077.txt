@@ -1,0 +1,6 @@
+﻿X0001
+Poprawę jakości płyt z elementami (z punktu widzenia EMI) uzyskuje się poprzez:
+losowe rozmieszczanie elementów
+ekranowanie wszystkich elementów (np. w kubki)
+użycie odpowiednich laminatów
+stosowanie siatek tzw. X-Y

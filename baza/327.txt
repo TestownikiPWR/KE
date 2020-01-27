@@ -1,0 +1,6 @@
+﻿X1000
+Maksymalna wartość amplitudy impulsów napięcia stosowane w badaniach wrażliwości na bezpośrednie oddziaływanie wyładowań.. (powietrza) wynosi:
+15kV
+8kV
+25kV
+4kV

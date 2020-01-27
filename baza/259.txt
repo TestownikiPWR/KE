@@ -1,0 +1,6 @@
+﻿X0001
+Wysokość zawieszenia anteny pomiarowej podczas pomiaru emisyjności z odległości 30 m powinna wynosić:
+jest stała i równa 1 m,,
+powinna zmieniać się od 1 do 4 m,
+powinna zmieniać się od 1,5 do 4 m,
+powinna zmieniać się od 2 do 6 m,

@@ -1,0 +1,6 @@
+﻿X1000
+Oczko w ażurowej płycie ziemi odniesienia powinno być:
+mniejsze niż 3 cm
+większe niż 3 cm
+dowolne
+płyta nie może mieć oczek

@@ -1,0 +1,8 @@
+﻿X100101
+O CE czy (wybierz trzy): 
+w unii wymagane jest to oznaczenie na urządzeniach, 
+w unii nie jest wymagane to oznaczenie na urządzeniach, 
+nanosi się je po wprowadzeniu do sprzedaży urządzenia, 
+nanosi się je przed wprowadzeniem do sprzedaży urządzenia, 
+jest nanoszone przez dystrybutora lub kogoś tam, 
+jest nanoszone przez producenta lub jego przedstawiciela lub importera

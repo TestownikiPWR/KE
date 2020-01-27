@@ -1,0 +1,6 @@
+﻿X1100
+Mechanizm generacji zakłóceń przewodzonych jest związany z:
+występowaniem wyładowań łukowych
+gwałtowna zmiana przepływu prądu
+zmianami natężenia pola elektromagnetycznego
+stanami niustalonymi

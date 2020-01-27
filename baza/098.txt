@@ -1,0 +1,6 @@
+﻿X0001
+Parametry impulsu pola elektromagnetycznego występującego w przestrzeni pomiarowej symulatora równoległopłytowego zależą głównie od:
+rozmiarów symulatora
+wartości rezystancji obciążającej symulator
+zastosowanych w symulatorze sond pomiarowych
+parametrów generatora pobudzającego

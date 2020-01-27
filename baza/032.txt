@@ -1,0 +1,6 @@
+﻿X1100
+Niewiele źródeł zakłóceń promieniowanych można zaobserwować na częstotliwościach:
+< 10kHz
+10kHz - 30MHz
+30 - 300MHz
+300 - 1000MHz

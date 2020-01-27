@@ -1,0 +1,6 @@
+﻿X1000
+Cęgi absorpcyjne umożliwiają pomiar
+mocy zaburzeń promieniowanych z przewodów zasilających
+pola EM zaburzeń
+mocy zaburzeń promieniowanych przez nadajniki radiowe
+napięcia zaburzeń

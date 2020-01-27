@@ -1,0 +1,6 @@
+﻿X1000
+Za pomocą sondy różnicowej można zmierzyć
+zaburzenia przewodzone symetrycznie
+zaburzenia przewodzone w komorach GTEM
+zaburzenia promieniowane przez przewody zasilające
+parametry sieci sztucznej

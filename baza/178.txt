@@ -1,0 +1,6 @@
+﻿X0001
+Jak firmy wyposażają hale aby nie były przewodzące:
+podłoga z dielektryka ale płaska
+podłoga z dielektryka ale chropowata
+podłoga przewodząca ale płaska
+podłoga przewodząca ale chropowata

@@ -1,0 +1,6 @@
+X0010
+Trzaski radioelektryczne są to zakłócenia, które pojawiają się nie częsćiej niż dwukrotnie w ciągu 2s i trwają:
+do 100ms
+100-200ms
+do 200ms
+nie krócej niż 200ms

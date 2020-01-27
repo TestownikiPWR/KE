@@ -1,0 +1,6 @@
+﻿X0010
+Kompatybilność elektromagnetyczna w radiotechnice związana jest:
+z badaniem pól emitowanych przez układy zapłonowe silników spalinowych
+z badaniem wpływu fal elektromagnetycznych na organizmy żywe 
+z celowym wytwarzaniem energii elektromagnetycznej w celu przesyłania informacji
+z opracowaniem metod pomiarów pól wzorcowych

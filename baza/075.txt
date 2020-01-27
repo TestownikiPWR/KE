@@ -1,0 +1,6 @@
+﻿X0010
+Płytki drukowane z punktu widzenia zakłóceń elektromagnetycznych powinny:
+mieć dowolnie prowadzone ścieżki
+być zawsze specjalnie ekranowane
+być optycznie "nieprzeźroczyste"
+mieć wspólną masę dla sygnałów stałoprądowych i linii sygnałowych

@@ -1,0 +1,6 @@
+﻿X1010
+Podstawową strategią ochrony przed zakłóceniami jest:
+stosowanie ekranów
+używanie specjalnie sprawdzanych elementów
+filtrowanie zasilania
+umieszczanie urządzeń w specjalnych pomieszczeniach

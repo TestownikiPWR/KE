@@ -1,0 +1,6 @@
+﻿X0010
+Od czego zależy max częstotliwość na polgionie pomiarowym:
+Od grubośći ziemi odniesienia.
+Od wiglotnosći powietrza.
+Od wielkości oczek siatki na ziemi odniesienia.
+Od użytych płyt ferrytowych.

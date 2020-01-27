@@ -1,0 +1,6 @@
+﻿X0010
+Sieć sztuczna typu V służy do:
+pomiarów napięcia symetrycznego 
+pomiaru prądów symetrycznych
+pomiarów napięcia niesymetrycznego
+pomiaru prądów niesymetrycznych

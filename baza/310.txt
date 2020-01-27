@@ -1,0 +1,6 @@
+﻿X0100
+Wrażliwość urządzeń na zaburzenia promieniowane powstające podczas wyładowań elektrostatycznych bada się symulując wyładowania do
+płąszczyzny promieniującej o wymiarach 2x2m
+elementów urządzenia dotykanych przez obsługę
+płaszczyzny 0,5x0,5m
+obudowy badanego urządzenia

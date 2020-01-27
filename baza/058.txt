@@ -1,0 +1,6 @@
+﻿X0100
+Podczas badań kompatybilności elektromagnetycznej urządzenie powinno:
+być wyłączone
+pracować w trybie normalnej pracy
+jego stan nie ma znaczenia
+być umieszczane w specjalnej, dodatkowej obudowie ekranu

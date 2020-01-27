@@ -1,0 +1,6 @@
+﻿X0001
+Zadaniem filtru wstecznego stosowanego na stanowisku dla pomiaru wrażliwości urządzeń metodą pośrednią na zaburzenia impulsowe jest:
+sprzęgnięcie generatora z badanym urządzeniem
+stabilizacja warunków pomiaru
+zabezpieczeniam przed przenikaniem ciągłego sygnału testującego do obwodów zasilania
+zabezpieczeniam przed przenikaniem impulsu testującego do obwodów zasilania

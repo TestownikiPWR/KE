@@ -1,0 +1,8 @@
+﻿X010110
+Co o laboratoriach notyfikowanych, jaki zdania są prawdziwie:
+muszą spełniać normy PN6100... 
+muszą spełniać normy PN 450... 
+muszą być kontrolowane przez WE (Wspólnota Europejska) 
+nie muszą być kontrolowane przez WE (Wspólnota Europejska) 
+co pewien czas muszą przejść kontrole przez jednostkę akredytacyjną 
+nie muszą co pewien czas przechodzić przez kontrole przez jednostkę akredytacyjną

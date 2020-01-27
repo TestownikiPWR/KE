@@ -1,0 +1,6 @@
+﻿X0011
+Badanie oddziaływań impulsów towarzyszących wybuchom jądrowym odbywa się:
+poprzez wywołanie mikro-wybuchów jądrowych
+na poligonach nuklearnych
+poprzez budowanie symulatorów polowych równoległopłytowych
+poprzez budowanie symulatorów promieniujących

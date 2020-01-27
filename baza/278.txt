@@ -1,0 +1,6 @@
+﻿X0100
+Mocując do urządzania zacisk uziemiający:
+można go dowolnie umieścić,
+należy go umieścić jak najdalej wejścia sygnałowego,
+należy zastosować dwa zaciski uziemiające jednej najbliżej drugi najdalej wejcia sygnałowego,
+należy go umieścić jak najbliżej wejścia sygnałowego,

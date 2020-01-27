@@ -1,0 +1,8 @@
+﻿X110100
+Podstawowe środku ochrony EMC to: (wybierz 3)
+Ekranowanie
+Elementy przeciwprzepięciowe
+Lutowanie zamiast przykręcania
+Filtry
+Obudowy typu IP40
+Obudowy z pleksiglasu

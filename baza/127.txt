@@ -1,0 +1,6 @@
+﻿X1000
+Zadaniem sieci sztucznej podczas pomiaru zakłóceń przewodzonych przez sieć zasilającą jest:
+zapewnienie możliwości podłączenia miernika zakłóceń
+odfiltrowanie składowych o częstotliwości 50 Hz
+urządzeń od zakłóceń wytwarzanych przez inne urządzenia podłączone do tych
+zapewnienie możliwości podłączenia sztucznego operatora

@@ -1,0 +1,6 @@
+﻿X0010
+Odległość koordynacja definiowana jest jako:
+odległość bezpośredniej widoczności nadajnik-odbiornik
+odległość wyznaczana wzdłuż ortodromy
+odległość między nadajnikami pracującymi na tej samej częstotliwości
+minimalna odległość nadajnik-odbiornik zapewniającą pracę bez zakłóceń

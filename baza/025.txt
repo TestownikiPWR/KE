@@ -1,0 +1,6 @@
+﻿X1010
+Zakłocenia przewodzone są to zakłócenia:
+indukowane w cewkach
+rozchodzące się w postaci fal elektromagnetycznych
+dochodzące do punktu pomiarowego przez przewodnik
+związane z występowaniem ładunków elektrostatycznych

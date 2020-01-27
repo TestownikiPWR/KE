@@ -1,0 +1,6 @@
+﻿X0100 
+Czy podczas testów na odporność na ESD należy:
+stosować impulsy tylko dodatnie
+stosować impulsy o polaryzacji dodatniej i ujemnej
+stosować impulsy tylko ujemne
+nie ma to znaczenia

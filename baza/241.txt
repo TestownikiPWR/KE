@@ -1,0 +1,6 @@
+﻿X0100
+Amplitudę ESD określają normy:
+ESD PL,
+EN IEC,
+CPD,
+CISPR-PE,

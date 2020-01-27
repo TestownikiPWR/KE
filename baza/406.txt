@@ -1,0 +1,6 @@
+﻿X0001
+Generator udarowy 10/700 mikrosekund może być sprzęgany z badanym urządzeniem poprzez:
+kondensator sprzęgający o pojemności 33nF
+tranformator prądowy
+kondensator sprzęgający o pojemności 16 mikrofaradów
+bezpośrednie włączenie na zaciski badanego urządzenia 

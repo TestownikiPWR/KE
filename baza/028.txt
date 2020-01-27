@@ -1,0 +1,6 @@
+﻿X0001
+Zakłócenia przewodzone dominują w zakresie częstotliwości:
+1kHz do 10MHz
+30MHz - 1GHz
+1GHz - 1MHz
+10kHz - 30MHz

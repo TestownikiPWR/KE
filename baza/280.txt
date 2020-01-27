@@ -1,0 +1,6 @@
+﻿X0100
+Dopuszczalny poziom zaburzeń przewodzonych do środowiska według norm amerykańskich określane są dla wartości:
+szczytowej,
+średniej,
+skutecznej,
+quasiszczytowej,

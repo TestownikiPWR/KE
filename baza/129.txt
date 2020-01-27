@@ -1,0 +1,6 @@
+﻿X0010
+Transformator prądowy umożliwia pomiar prądu zakłóceń dzięki:
+możliwości podłączenia sieci sztucznej typu V
+znajomości przekładni transformatora w funkcji częstotliwości ???
+możliwości podłączenia odbiornika pomiarowego
+możliwości podłączenia sieci sztucznej typu delta

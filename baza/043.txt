@@ -1,0 +1,6 @@
+﻿X0100
+Wzajemne usytuowanie badanych urządzeń i okablowania podczas badań kompatybilności:
+powinno maksymalizować zakłócenia
+powinno minimalizować zakłócenia
+nie wpływa na pomiary
+powinnio byc zgodne z norma 312PN

@@ -1,0 +1,6 @@
+﻿X0110
+Kompatybilność elektromagnetyczna jest związana z:
+występowaniem zaników w propagacji fal elektromagnetycznych
+wpływem pól elektromagnetycznych na urządzenia techniczne
+wpływem pól elektromagnetycznychna organizmy żywe
+prawidłowym działaniem programów w komputerach IBM-PC

@@ -1,0 +1,6 @@
+﻿X0100
+Sieci sztuczne są stosowane do pomiarów:
+natężenia pola zakłóceń
+napięcia zakłóceń
+prądu zakłóceń
+mocy zakłóceń

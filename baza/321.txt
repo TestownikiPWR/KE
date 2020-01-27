@@ -1,0 +1,6 @@
+﻿X0010
+Amplituda impulsu pola elektrycznego występującego w przestrzeni pomiarowej symulatora równoległopłytowego za..
+czasu narastania udaru pobudzającego
+czasu trwania udaru pobudzającego
+poziomu napięcia na wyjściu generatora pobudzającego
+zastosowanych w symulatorze sond pomiarowych

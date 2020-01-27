@@ -1,0 +1,6 @@
+﻿X0010
+Stosunek (osiągnięty stopień łączności)/(zabroniona przestrzeń widmowa) jest miarą:
+jakości łącza
+stopy błędów
+efektywności wykorzystania przestrzeni widmowej
+zajętości widma

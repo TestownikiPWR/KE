@@ -1,0 +1,6 @@
+﻿X1000
+Osłona przeciwdeszczową poligonu jest zrobiona z:
+dielektryk
+z metalu
+z plastiku
+z drewna

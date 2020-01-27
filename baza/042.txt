@@ -1,0 +1,6 @@
+﻿X0100
+Zakłócenia zewnętrzne wg. CISPR (Publ. 22) powinny być poniżej dopuszczalnych poziomów o:
+3 dB
+6 dB
+9 dB
+10 dB

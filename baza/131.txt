@@ -1,0 +1,6 @@
+﻿X0010
+Dopuszczalne poziomy zakłóceń przewodzonych do środowiska (wg norm europejskich) określane są dla wartości:
+szczytowej
+średniej
+quaziszczytowej
+skutecznej

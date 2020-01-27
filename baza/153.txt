@@ -1,0 +1,6 @@
+﻿X0001
+Impulsowe zaburzenia przewodzone wytwarzane są przez:
+Terminale telefonii komórkowej
+Wyładowania elektrostatyczne
+Lokalne oscylatory
+Prądy indukowane w przewodach polami wytwarzanymi przez wyładowania atmosferyczne

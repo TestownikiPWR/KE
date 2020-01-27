@@ -1,0 +1,6 @@
+﻿X0010
+Bezpośrednia metoda badania wrażliwości urządzeń na impulsowe pole elektromagnetyczne polega na:
+umieszczeniu badanego urządzenia w przestrzeni pomiarowej komory GTEM pobudzanej generatorem sygnału ciągłego
+podaniu na wejście sygnałowe impulsu napięciowego o postaci ciągłej fali modulowanej tonem 1kHz
+umieszczeniu badanego urządzenia w przestrzeni pomiarowej symulatora promieniującego
+podaniu na wejściu sygnału w postaci impulsu napięcia o nanosekundowym czasie narastania

@@ -1,0 +1,6 @@
+﻿X0001
+Największa dopuszczalna gęstość mocy mikrofalowej w miejsach dostępnych dla ludzi wynosi: 
+0.01 W/m^2
+0.1 W/m^2
+1 W/m^2
+10 W/m^2

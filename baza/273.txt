@@ -1,0 +1,7 @@
+﻿X00101
+Podczas badania wrażliwości urządzeń na wyładowania elektrostatyczne metodą pośrednią stosuje się wyładowania do (wybierz dwie):
+przewodów zasilających,
+przewodów interfejsowych,
+pionowej płaszczyzny sprzęgającej,
+do obudowy urządzenia,
+poziomej płaszczyzny sprzęgającej,

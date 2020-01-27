@@ -1,0 +1,8 @@
+﻿X001100
+Jeżeli w polu bliskim źródła promieniowania elektromagnetycznego E/H>377 Ohm to (wybierz dwie):
+dominuje pole magnetyczne 
+niedominuje żadna składowa pola EM
+mamy do czynienia ze sprzężeniem indukcyjnym
+dominuje pole elektryczne
+mamy do czyniena ze sprzężeniem pojemnościowym 
+mamy do czynienia z falą płaską

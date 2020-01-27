@@ -1,0 +1,6 @@
+﻿X0100
+Do jakiej częstotliwości działają (filtrują) pierścienie ferrytowe:
+500MHz  
+1500MHz (taka odpowiedź wynikałaby z wykresów)
+4000MHz 
+5000MHz

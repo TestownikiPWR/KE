@@ -1,0 +1,6 @@
+﻿X0001
+Na terenie Rzeczpospolitej Polskiej notyfikacje w zakresie badań EMC może posiadać:
+każde laboratorium, które prowadzi badania w zakresie EMC i uzyskało akredytacje dowolnej instytucji akredytacyjnej w Uni Europejskiej
+każda jednostka po uprzednim uzyskaniu akredytacji Polskiego Centrum Akredytacji w zakresie objętym normami serii EN61000-6-x
+jedynie laboratoria, które prowadzą badania w pełnym zakresie EMC po uprzednim uzyskaniu akredytacji Polskiego Centrum Akredytacji
+jednosta autoryzowana przez właściwe ministerstwo po uprzednim uzyskaniu akredytacji Polskiego Centrum Akredytacji w zakresie objętym dyrektywą

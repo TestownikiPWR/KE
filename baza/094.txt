@@ -1,0 +1,6 @@
+﻿X0100
+Amplituda impulsu napięcia indukowanego a długim odcinku linii napowietrznej może osiągać wartości:
+kilku kV
+kilku MV
+kilkuset V
+kilku V

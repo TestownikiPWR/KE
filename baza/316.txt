@@ -1,0 +1,6 @@
+﻿X0010
+Warunki i zasady pomiaru zaburzeń promieniowanych na otwartym poligonie pomiarowym i w komorze bezodbiciowej
+stosuje się inną aparaturę pomiarową
+różnią się wysokościami zawieszenia anten pomiarowych
+różnią się minimalną i maksymalną częstotliwością pomiarową
+nie różnią się

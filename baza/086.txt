@@ -1,0 +1,6 @@
+﻿X0100
+Źródłem impulsów elektromagnetycznych o czasach narostu rzędu mikrosekund są:
+wyładowania elektrostatyczne
+wyładowania atmosferyczne
+wybuchy nuklearne
+procesy łączeniowe w liniach energetycznych

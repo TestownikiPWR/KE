@@ -1,0 +1,6 @@
+﻿X0100
+Do wad pomiarów prowadzonych w komorach ekranowanych należą:
+duże wymiary testowych urządzeń
+przypadkowa polaryzacja fal elektromagnetycznych w komorze
+brak korelacji z pomiarami przeprowadzanymi w swobodnej przestrzeni
+szeroki zakres częstotliwości

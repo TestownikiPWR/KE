@@ -1,0 +1,6 @@
+﻿X0100
+Emisyjność sprzętu jest to:
+wytwarzanie sygnałów testowych
+wytwarzanie niepożądanych pól elektromagnetycznych
+wytwarzanie pożądanych pól elektromagnetycznych
+odporność na zakłócenia

@@ -1,0 +1,6 @@
+﻿X1000
+Jak duże oczka może mieć siatka, która jest jako ziemia odniesienia na poligonie:
+mniejsza od 1/10 długości fali przy mierzonej największej częstotliwości
+większa od 1/10 długości fali przy mierzonej największej częstotliwości
+nie może być siatka
+mniejsza od 1/20 długości fali przy mierzonej największej częstotliwości

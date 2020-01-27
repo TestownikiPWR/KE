@@ -1,0 +1,6 @@
+﻿X0010
+Czasy opadania impulsów pola elektromagnetycznego powstającego podczas wybuchu jądrowego są:
+rzędu pikosekund
+rzędu mikrosekund
+rzędu nanosekund
+rzędu milisekund

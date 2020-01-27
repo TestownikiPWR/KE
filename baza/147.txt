@@ -1,0 +1,6 @@
+﻿X0100
+Podczas badania wrażliwości urządzeń na wyładowania elektrostatyczne metodą bezpośrednią stosuje się wyładowania do:
+Wnętrza urządzenia
+Miejsc urządzenia, które może dotykać obsługa
+Przewodów interfejsowych
+Przewodów zasilających

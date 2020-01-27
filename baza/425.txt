@@ -1,0 +1,6 @@
+﻿X0001
+Odporności urządzeń na zakłócenia promieniowane powstające podczas wyładowań elektrostatycznych bada się symulując wyładowania do:
+przewodów interfejsowych
+wnętrza urządzenia 
+przewodów zasilających
+elementów urządzenia dotykanych przez obsługę

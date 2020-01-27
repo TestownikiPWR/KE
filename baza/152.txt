@@ -1,0 +1,6 @@
+﻿X0001
+Natężenie pola EM odbitego od absorberów piramidalnych jest:
+zależy od parametrów materiału z którego wykonano
+Nie zależy od kierunku padania pola elektromagnetycznego
+Nie zależy od wysokości absorberów
+Wprost proporcjonalna do ich wysokości

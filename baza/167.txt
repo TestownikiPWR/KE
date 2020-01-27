@@ -1,0 +1,6 @@
+﻿X1000
+Integralną częścią urządzenia sprzęgając - separującego jest:
+filtr wsteczny
+filtr niewsteczny
+filtr podwsteczny
+filtr nawsteczny

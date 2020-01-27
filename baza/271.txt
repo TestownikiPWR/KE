@@ -1,0 +1,6 @@
+﻿X1000
+Podczas badania wrażliwości urządzeń na impulsy typu “surge”
+może uszkodzić trwale badane urządzenie,
+Impulsów typu “surge” nie stosuje się do badania wrażliwości urządzeń,
+można tylko zakłócić pracę badanego urządzania,
+nie można trwale uszkodzić badanego urządzenia urządzenia,

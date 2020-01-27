@@ -1,0 +1,6 @@
+﻿X0100
+W przestrzeni symulatora impulsów elektromagnetycznych z połową okrągłej anteny ramowej:
+Dominuje składowa magnetyczna impulsu elektromagnetycznego
+Występują dwie składowe impulsu EM, elektryczna i magnetyczne o stosunku E/H= 377 omów
+W symulatorach impulsowego pola EM nie wykorzystuje się połowy okrągłej anteny pomiarowej
+Dominuje składowa elektryczna impulsu elektromagnetycznego

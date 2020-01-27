@@ -1,0 +1,6 @@
+﻿X1000
+Co to jest dBmA/m:
+natężenie prądu
+napięcie
+moc
+bezwymiarowa wielkość

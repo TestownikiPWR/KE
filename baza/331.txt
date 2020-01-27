@@ -1,0 +1,6 @@
+﻿X1010
+Do zaburzeń przewodzonych można zaliczyć zaburzenia (wybierz 2 odp):
+wspólne
+absorpcyjne
+symetryczne
+promieniowane

@@ -1,0 +1,8 @@
+﻿X010001
+W celu ochrony informacji użytecznej przed niepożądaną detekcją elektromagnetyczną stosujemy (wybierz dwa):
+straż przemysłową
+oszacowanie stopnia protekcji systemu
+detektory prominiowania ultrafioletowego
+protekcję zatrudnionych pracowników
+generatory mikrofal
+strefy ochronne
