@@ -1,5 +1,5 @@
 ﻿X00110
-Generator udarowt 1,2/50 i 8/20 mikrosekund może być sprzęgany przewodami podłączonymi...
+Generator udarowy 1,2/50 - 8/20 mikrosekund może być sprzęgany przewodami podłączonymi przez
 cęgi elektromagnetyczne
 cęgi absorbcyjne
 kondensator sprzęgający

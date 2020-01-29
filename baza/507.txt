@@ -1,0 +1,6 @@
+X0100
+T³umiennoœæ trasy propagacji dla fal rozchodz¹cych siê w swobodnej przestrzeni:
+roœnie z szeœcianem odleg³oœci
+roœnie z kwadratem odleg³oœci
+maleje z kwadratem odleg³oœci
+roœnie wprost proporcjonalnie do odleg³oœci

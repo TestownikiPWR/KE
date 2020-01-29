@@ -1,5 +1,5 @@
-X0101
-Minimalizacji powstających ładunków ESD dokonuje się:
+﻿X0001
+Minimalizacji powstających ładunków ESD dokonuje się: //można nosić specjalistyczne obuwie ESD które odprowadza ładunki do ziemi i również ma gumową podeszwę - zwykłe obuwie na gumowej podeszwie pogarsza sprawę//
 stosując syntetyczną wykładzinę dywanową
 nosząc obuwie na gumowej podeszwie
 nosząc ubranie z materiałów syntetycznych

@@ -1,0 +1,6 @@
+X0001
+Czasy opadania impulsów pola elektrycznego powstaj¹cego podczas wybuchu j¹drowego na du¿ej wysokoœci :
+siêgaj¹ dziesi¹tek pikosekund
+siêgaj¹ dziesi¹tek mikrosekund
+siêgaj¹ milisekund
+siêgaj¹ czêœci dziesi¹tych mikrosekund

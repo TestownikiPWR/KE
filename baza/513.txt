@@ -1,0 +1,6 @@
+X0010
+Do podstawowych œrodków ochrony przed zaburzeniami emc nie nale¿¹:
+Ekrany elektromagnetyczne
+Elementy przeciwprzepiêciowe
+Bariery œrodowiskowe
+Filtry przeciwzak³óceniowe

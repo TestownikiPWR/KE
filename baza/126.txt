@@ -1,4 +1,4 @@
-﻿X0010
+﻿X0110
 Klamra pojemnościowa służy do sprzęgnięcia udaru testowego z:
 nie jest wykorzystywana w badaniach wrażliwości urządzeń
 z przewodem zasilającym BU

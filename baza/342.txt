@@ -1,4 +1,4 @@
-﻿X001100
+﻿X000110
 Jeżeli w polu bliskim źródła promieniowania elektromagnetycznego E/H>377 Ohm to (wybierz dwie):
 dominuje pole magnetyczne 
 niedominuje żadna składowa pola EM

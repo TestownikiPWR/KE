@@ -1,8 +1,0 @@
-﻿X100100
-[img]10.jpg[/img]:
-element zwierający
-filtr dolnoprzepustowy
-element ograniczający
-surge arrester
-piorunochron
-warystor

@@ -1,0 +1,6 @@
+X1000
+Umowny sygna³ zak³ócaj¹cy (sygna³ probierczy) to:
+Sygna³ pozwalaj¹cy na symulowane w warunkach laboratoryjnych zaburzenie e-m, wykorzystywane do oceny wra¿liwoœci na jego obecnoœæ badanych urz¹dzeñ
+Sygna³ pozwalaj¹cy na symulowane w warunkach laboratoryjnych zaburzenie e-m, wykorzystywane do oceny u¿ytecznoœci systemu radiokomunikacyjnego w danym paœmie
+Inaczej poziom na wyjœciu generatora sygna³owego z fal¹ ci¹g³¹ niemodulowan¹
+Sygna³ pozwalaj¹cy na symulowane w warunkach zbli¿onych do rzeczywistych zjawisk wystêpuj¹cych w polu dalekim

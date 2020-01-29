@@ -1,6 +1,6 @@
 ﻿X0010
 Badanie odporności na zaburzenia elektromagnetyczne rozchodzące się drogą przewodową prowadzone są ze względu na:
-Ograniczenia prądowe w kablach zasilających urządzenia,
-Detektor wartości średniej,
-Tłumione przebiegi sinusoidalne - Wykład strona 64 slajd 40,
-Zaburzenia przewodzone indukowane przez pola o częstotliwości akustycznej,
+Ograniczenia prądowe w kablach zasilających urządzenia
+Detektor wartości średniej
+Tłumione przebiegi sinusoidalne
+Zaburzenia przewodzone indukowane przez pola o częstotliwości akustycznej

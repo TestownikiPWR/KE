@@ -1,0 +1,9 @@
+X0001
+Najtañszym sposobem zabezpieczania obiektów przed ulotem informacji jest:
+Infiltracja informacji na terenie obiektu
+Filtracja przy³¹czy doprowadzonych do obiektu
+Ekranowanie pomieszczeñ w obiekcie
+Separacja/izolowanie chronionego obiektu w terenie poprzez wyznaczanie stref dostêpu
+
+
+

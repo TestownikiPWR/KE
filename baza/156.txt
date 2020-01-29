@@ -1,7 +1,0 @@
-﻿X00110
-Generator udarowy 1,2/50 i 8/20 mikrosekund może być sprzęgany przewodami podłączonymi do badanego urządzenia poprzez: (wybierz dwa)
-Klamrę pojemnością
-Kondensator sprzęgający
-Transformator prądowy
-Cęgi elektromagnetyczne
-Cęgi absorpcyjne

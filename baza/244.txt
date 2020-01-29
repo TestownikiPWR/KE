@@ -1,7 +1,7 @@
-﻿X10000000
+﻿X10000010
 [img]2.jpg[/img]:
-Odgromnik - surge arrester,
-Warystor ,
+odgromnik - surge arrester
+warystor
 triak
 kondensator
 piorunochron

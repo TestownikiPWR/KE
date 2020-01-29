@@ -1,7 +1,7 @@
 ﻿X010011
 Które ze sformułowań poprawnie opisuje zjawisko powstawania i odzaływania wyładowań typu LEMP? (wybierz trzy)
 Cząstki spadające zyskują ładunek dodatni, zaś unoszące się - ładunek ujemny
-Cząstki spadające zyskują ładunek ujemny, zaś unoszące się - ładunek dodatni. 
+Cząstki spadające zyskują ładunek ujemny, zaś unoszące się - ładunek dodatni 
 Napięcie zapłonu dla impulsu piorunowego jest rzędu 1000V
 Piorunowe stany przejściowe powstają tylko w wyniku bezpośrednich wyładować typu LEMP
 Piorunowe stany przejściowe postają zarówno w wyniku bezpośrednij jak i pośrednich wyłądowań typu LEMP

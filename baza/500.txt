@@ -1,0 +1,7 @@
+X01101
+Które z wymienionych pojêæ okreœlaj¹ opracowanie i zaakceptowanie w skali miêdzynarodowej modele wy³adowañ elektrostatycznych? (wybierz trzy odpowiedzi)
+devices electrostatic model (DEM)
+charged device model (CDM)
+machine model (MM)
+electrostatic dynamic model (EDM)
+human body model (HBM)

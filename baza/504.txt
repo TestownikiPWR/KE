@@ -1,0 +1,6 @@
+X0011
+Zaburzenia przewodzone mo¿na mierzyæ za pomoc¹: (wybierz dwie)
+sieci sztucznej
+komory TEM
+miernika przewodzeniowego
+odbiornika pomiarowego

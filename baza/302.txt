@@ -1,4 +1,4 @@
-﻿X000101
+﻿X000110
 Przy analizie procesu detekcji informacji użytecznej definiujemy następujące pojęcia (wybierz dwie)
 kanał
 kradzież informacji

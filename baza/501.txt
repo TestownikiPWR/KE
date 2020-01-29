@@ -1,0 +1,8 @@
+X0010
+Zabezpieczaj¹c urz¹dzenie przed oddzia³ywaniem wy³adowañ elektrostatycznych nale¿y:
+umieœciæ w pomieszczeniu o bardzo ma³ej wilgotnoœci
+postawiæ na podk³adce wykonanej z materia³u stratnego (z jednej strony uziemionej poprzez stratny element)
+uziemiæ urz¹dzenie
+postawiæ na przewodz¹cej p³aszczyŸnie wykonanej z metalu (uziemionej)
+
+

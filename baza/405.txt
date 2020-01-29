@@ -1,5 +1,5 @@
 ﻿X1001
-Maksymalna wysokość zawieszenia anteny pomiarowej podczas pomiaru zaburzeń promieniowanych
+Maksymalna wysokość zawieszenia anteny pomiarowej podczas pomiaru zaburzeń promieniowanych (wybierz dwie)
 wynosi 4m
 zmienia się od 1m do 4m
 zmienia się od 2m do 6m
