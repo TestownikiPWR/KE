@@ -1,4 +1,4 @@
-X010001
+X110000
 Najbardziej ogólne normy EMC dotycz¹ce emisyjnoœci urz¹dzeñ, które obowi¹zuj¹ w Polsce to (wybierz dwie):
 PN-EN 61000-6-1
 PN-EN 61000-6-4
