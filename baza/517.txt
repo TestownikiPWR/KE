@@ -1,8 +1,8 @@
-X0001
-Ocena zgodnoœci to:
-wymagania prawne reguluj¹ce w³aœciwoœci danego produktu
-procedura postêpowania z produktem przez u¿ytkownika koñcowego zapewniaj¹ca zgodnoœæ z zapisami instrukcji
-proces przeprowadzany przez dystrybutora na terenie pañstw poza UE
-proces przeprowadzany przez procudenta w celu wykazania czy spe³niono okreœlone wymagania dotycz¹ce produktu
+ï»¿X0001
+Ocena zgodnoÅ›ci to:
+wymagania prawne regulujÄ…ce wÅ‚aÅ›ciwoÅ›ci danego produktu
+procedura postÄ™powania z produktem przez uÅ¼ytkownika koÅ„cowego zapewniajÄ…ca zgodnoÅ›Ä‡ z zapisami instrukcji
+proces przeprowadzany przez dystrybutora na terenie paÅ„stw poza UE
+proces przeprowadzany przez procudenta w celu wykazania czy speÅ‚niono okreÅ›lone wymagania dotyczÄ…ce produktu
 
 

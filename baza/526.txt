@@ -1,8 +1,8 @@
-X101001
-Czynnikami sprzyjaj¹cymi elektryzowanie siê s¹(wybierz trzy):
-pokrywanie materia³ów pokryw¹ lakiernicz¹ lub ich laminowanie
-du¿a wilgotnoœæ otoczenia
-odzie¿ oraz narzêdzia z materia³ów syntetycznych
-odzie¿ oraz narzêdzia z materia³ów naturalnych
-zanurzenie materia³ów w wodzie
-ma³a wilgotnoœæ otoczenia 
+ï»¿X101001
+Czynnikami sprzyjajÄ…cymi elektryzowanie siÄ™ sÄ…(wybierz trzy):
+pokrywanie materiaÅ‚Ã³w pokrywÄ… lakierniczÄ… lub ich laminowanie
+duÅ¼a wilgotnoÅ›Ä‡ otoczenia
+odzieÅ¼ oraz narzÄ™dzia z materiaÅ‚Ã³w syntetycznych
+odzieÅ¼ oraz narzÄ™dzia z materiaÅ‚Ã³w naturalnych
+zanurzenie materiaÅ‚Ã³w w wodzie
+maÅ‚a wilgotnoÅ›Ä‡ otoczenia 

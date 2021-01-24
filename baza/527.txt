@@ -1,7 +1,7 @@
-X0001
-Maksymalna czêstotliwoœæ pomiaru zaburzeñ promieniowanych na otwartym poligonie jest tym wy¿sza:
+ï»¿X0001
+Maksymalna czÄ™stotliwoÅ›Ä‡ pomiaru zaburzeÅ„ promieniowanych na otwartym poligonie jest tym wyÅ¼sza:
 im mniejsza jest powierzchnia strefy Fresnela
-im mniejsza jest przewodnoœæ blach, któr¹ wy³o¿ono obszar Elipsy Fresnela
-im wiêksze s¹ rozmiary oczka siatki, któr¹ wy³o¿ono obszar Elipsy Fresnela
-im mniejsza s¹ rozmiary oczka siatki, któr¹ wy³o¿ono obszar Elipsy Fresnela
+im mniejsza jest przewodnoÅ›Ä‡ blach, ktÃ³rÄ… wyÅ‚oÅ¼ono obszar Elipsy Fresnela
+im wiÄ™ksze sÄ… rozmiary oczka siatki, ktÃ³rÄ… wyÅ‚oÅ¼ono obszar Elipsy Fresnela
+im mniejsza sÄ… rozmiary oczka siatki, ktÃ³rÄ… wyÅ‚oÅ¼ono obszar Elipsy Fresnela
 

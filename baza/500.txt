@@ -1,5 +1,5 @@
-X01101
-Które z wymienionych pojêæ okreœlaj¹ opracowanie i zaakceptowanie w skali miêdzynarodowej modele wy³adowañ elektrostatycznych? (wybierz trzy odpowiedzi)
+ï»¿X01101
+KtÃ³re z wymienionych pojÄ™Ä‡ okreÅ›lajÄ… opracowanie i zaakceptowanie w skali miÄ™dzynarodowej modele wyÅ‚adowaÅ„ elektrostatycznych? (wybierz trzy odpowiedzi)
 devices electrostatic model (DEM)
 charged device model (CDM)
 machine model (MM)

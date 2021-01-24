@@ -1,6 +1,6 @@
-X0110
-ród³em promieniowania jest urz¹dzenie, a jego anten¹ mog¹ byæ: (wybierz dwie)
+ï»¿X0110
+Å¹rÃ³dÅ‚em promieniowania jest urzÄ…dzenie, a jego antenÄ… mogÄ… byÄ‡: (wybierz dwie)
 niemetalowe uchwyty
-przewody po³¹czeniowe
+przewody poÅ‚Ä…czeniowe
 szczeliny w ekranie
-wsporniki teflonowe pomiêdzy p³ytkami drukowanymi
+wsporniki teflonowe pomiÄ™dzy pÅ‚ytkami drukowanymi

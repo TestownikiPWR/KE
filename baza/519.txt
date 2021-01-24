@@ -1,5 +1,5 @@
-X0100
-Minimalne rozmiary typowej p³aszczyzny stabilizuj¹cej warunki pomiaru na stanowisku:
+ï»¿X0100
+Minimalne rozmiary typowej pÅ‚aszczyzny stabilizujÄ…cej warunki pomiaru na stanowisku:
 0,8 x 1,6 m
 2 x 2 m
 0,5 x 0,5 m

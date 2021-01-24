@@ -1,6 +1,6 @@
-X0100
-T≥umiennoúÊ trasy propagacji dla fal rozchodzπcych siÍ w swobodnej przestrzeni:
-roúnie z szeúcianem odleg≥oúci
-roúnie z kwadratem odleg≥oúci
-maleje z kwadratem odleg≥oúci
-roúnie wprost proporcjonalnie do odleg≥oúci
+ÔªøX0100
+T≈Çumienno≈õƒá trasy propagacji dla fal rozchodzƒÖcych siƒô w swobodnej przestrzeni:
+ro≈õnie z sze≈õcianem odleg≈Ço≈õci
+ro≈õnie z kwadratem odleg≈Ço≈õci
+maleje z kwadratem odleg≈Ço≈õci
+ro≈õnie wprost proporcjonalnie do odleg≈Ço≈õci

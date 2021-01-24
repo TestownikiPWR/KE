@@ -1,6 +1,6 @@
-X0011
-W pomiarach wymaga siê (wybierz 2):
-Wykonywania pomiarów przez te same osoby
-Stosowania zawsze tych samych urz¹dzeñ pomiarowych
-Powtarzalnoœci wyników pomiaru
+ï»¿X0011
+W pomiarach wymaga siÄ™ (wybierz 2):
+Wykonywania pomiarÃ³w przez te same osoby
+Stosowania zawsze tych samych urzÄ…dzeÅ„ pomiarowych
+PowtarzalnoÅ›ci wynikÃ³w pomiaru
 Standaryzacji metod pomiarowych

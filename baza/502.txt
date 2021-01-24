@@ -1,6 +1,6 @@
-X1000
+ï»¿X1000
 W pomiarach w komorze GTEM uzyskujemy:
-Napiêcie zaburzeñ, które nale¿y przeliczyæ na natê¿enie pola
-Moc promieniowan¹, która mówi nam o oddzia³ywaniu urz¹dzenia na cz³owieka
-Funkcjê przejœcia, która jest miar¹ emisyjnoœci urz¹dzenia
-Pr¹d sk³adowej sta³ej, który nale¿y porównaæ z dopuszczalnymi poziomami wskazanymi w normach
+NapiÄ™cie zaburzeÅ„, ktÃ³re naleÅ¼y przeliczyÄ‡ na natÄ™Å¼enie pola
+Moc promieniowanÄ…, ktÃ³ra mÃ³wi nam o oddziaÅ‚ywaniu urzÄ…dzenia na czÅ‚owieka
+FunkcjÄ™ przejÅ›cia, ktÃ³ra jest miarÄ… emisyjnoÅ›ci urzÄ…dzenia
+PrÄ…d skÅ‚adowej staÅ‚ej, ktÃ³ry naleÅ¼y porÃ³wnaÄ‡ z dopuszczalnymi poziomami wskazanymi w normach

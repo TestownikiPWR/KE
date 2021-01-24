@@ -1,7 +1,7 @@
-X1000
-dopasuj w³aœciwe pojêcia: 1. droga któr¹ powinien byæ sygna³ przesy³any. 2. droga, która sygna³ wydostaje siê w sposób niezamierzony na zewn¹trz. 3. proces fizyczny maj¹cy na celu odtworzenie sygna³y Ÿród³owego z sygna³u, który wydostaje siê na zewn¹trz urz¹dzenia.
-1.kana³ podstawowy 2.kana³ pods³uchowy 3.detekcja informacji u¿ytecznej
-1.kana³ pods³uchowy 2.kana³ pods³uchowy 3.detekcja informacji u¿ytecznej
-1.kana³ podstawowy 2.detekcja informacji u¿ytecznej 3.kana³ pods³uchowy
-1.detekcja informacji u¿ytecznej 2.kana³ pods³uchowy 3.kana³ podstawowy
+ï»¿X1000
+dopasuj wÅ‚aÅ›ciwe pojÄ™cia: 1. droga ktÃ³rÄ… powinien byÄ‡ sygnaÅ‚ przesyÅ‚any. 2. droga, ktÃ³ra sygnaÅ‚ wydostaje siÄ™ w sposÃ³b niezamierzony na zewnÄ…trz. 3. proces fizyczny majÄ…cy na celu odtworzenie sygnaÅ‚y ÅºrÃ³dÅ‚owego z sygnaÅ‚u, ktÃ³ry wydostaje siÄ™ na zewnÄ…trz urzÄ…dzenia.
+1.kanaÅ‚ podstawowy 2.kanaÅ‚ podsÅ‚uchowy 3.detekcja informacji uÅ¼ytecznej
+1.kanaÅ‚ podsÅ‚uchowy 2.kanaÅ‚ podsÅ‚uchowy 3.detekcja informacji uÅ¼ytecznej
+1.kanaÅ‚ podstawowy 2.detekcja informacji uÅ¼ytecznej 3.kanaÅ‚ podsÅ‚uchowy
+1.detekcja informacji uÅ¼ytecznej 2.kanaÅ‚ podsÅ‚uchowy 3.kanaÅ‚ podstawowy
 

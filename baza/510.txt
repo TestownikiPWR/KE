@@ -1,6 +1,6 @@
-X0001
-Kryterium oceny B stosowane podczas badañ odpornoœci oznacza, ¿e podczas badañ:
-nie ma objawów nieprawid³owej pracy urz¹dzenia
-wystêpuje trwa³a utrata w³aœciwoœci urz¹dzenia spowodowana uszkodzeniami
-wystêpuj¹ objawy nieprawid³owej pracy urz¹dzenia, których zlikwidowanie wymaga interwencji obs³ugi
-wystêpuj¹ chwilowe objawy nieprawid³owej pracy urz¹dzenia, które ustêpuj¹ samoczynnie
+ï»¿X0001
+Kryterium oceny B stosowane podczas badaÅ„ odpornoÅ›ci oznacza, Å¼e podczas badaÅ„:
+nie ma objawÃ³w nieprawidÅ‚owej pracy urzÄ…dzenia
+wystÄ™puje trwaÅ‚a utrata wÅ‚aÅ›ciwoÅ›ci urzÄ…dzenia spowodowana uszkodzeniami
+wystÄ™pujÄ… objawy nieprawidÅ‚owej pracy urzÄ…dzenia, ktÃ³rych zlikwidowanie wymaga interwencji obsÅ‚ugi
+wystÄ™pujÄ… chwilowe objawy nieprawidÅ‚owej pracy urzÄ…dzenia, ktÃ³re ustÄ™pujÄ… samoczynnie

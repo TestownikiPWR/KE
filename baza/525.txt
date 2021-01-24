@@ -1,5 +1,5 @@
-X011000
-Najbardziej ogólne normy EMC dotycz¹ce emisyjnoœci urz¹dzeñ, które obowi¹zuj¹ w Polsce to (wybierz dwie):
+ï»¿X011000
+Najbardziej ogÃ³lne normy EMC dotyczÄ…ce emisyjnoÅ›ci urzÄ…dzeÅ„, ktÃ³re obowiÄ…zujÄ… w Polsce to (wybierz dwie):
 PN-EN 61000-6-1
 PN-EN 61000-6-4
 PN-EN 55014-1

@@ -1,6 +1,6 @@
-X0001
-Aby zabezpieczyæ siê przed przenikaniem zaburzeñ przewodzonych do wnêtrza komory ekranowanej przez przewody zasilaj¹ce:
-instaluje siê filtry górnoprzepustowe
-instaluje siê iskierniki
-instaluje siê filtry pasmowe
-instaluje siê filtry dolnoprzepustowe
+ï»¿X0001
+Aby zabezpieczyÄ‡ siÄ™ przed przenikaniem zaburzeÅ„ przewodzonych do wnÄ™trza komory ekranowanej przez przewody zasilajÄ…ce:
+instaluje siÄ™ filtry gÃ³rnoprzepustowe
+instaluje siÄ™ iskierniki
+instaluje siÄ™ filtry pasmowe
+instaluje siÄ™ filtry dolnoprzepustowe

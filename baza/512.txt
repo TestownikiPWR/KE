@@ -1,6 +1,6 @@
-X1000
-W celu zapewnienia w³aœciwego odbioru fal radiowych nale¿y:
-Wyeliminowaæ przeszkody w I strefie Fresnela
-Ustawiæ materia³ o wysokiej konduktywnoœci pomiêdzy antenami
-Ustawiæ materia³ o wysokiej przenikalnoœci magnetycznej pomiêdzy antenami
-Prowadziæ transmisjê tylko w oœrodkach o impedancji falowej równej 377
+ï»¿X1000
+W celu zapewnienia wÅ‚aÅ›ciwego odbioru fal radiowych naleÅ¼y:
+WyeliminowaÄ‡ przeszkody w I strefie Fresnela
+UstawiÄ‡ materiaÅ‚ o wysokiej konduktywnoÅ›ci pomiÄ™dzy antenami
+UstawiÄ‡ materiaÅ‚ o wysokiej przenikalnoÅ›ci magnetycznej pomiÄ™dzy antenami
+ProwadziÄ‡ transmisjÄ™ tylko w oÅ›rodkach o impedancji falowej rÃ³wnej 377

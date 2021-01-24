@@ -1,6 +1,6 @@
-X0011
-W pomiarach wymaga siê (wybierz 2):
-Stosowania p³aszczyzny po³¹czonej do ziemi odniesienia za pomoc¹ rezystorów o wartoœci 10MOhm
-Stosowania zawsze tych samych urz¹dzeñ pomiarowych
+ï»¿X0011
+W pomiarach wymaga siÄ™ (wybierz 2):
+Stosowania pÅ‚aszczyzny poÅ‚Ä…czonej do ziemi odniesienia za pomocÄ… rezystorÃ³w o wartoÅ›ci 10MOhm
+Stosowania zawsze tych samych urzÄ…dzeÅ„ pomiarowych
 Standaryzacji metod pomiarowych
 Standaryzacji stanowisk pomiarowych

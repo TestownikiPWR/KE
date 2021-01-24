@@ -1,6 +1,6 @@
-X0100
-Poziom zaburzeñ przewodzonych emitowanych przez urz¹dzenia nie zale¿y od:
-do³¹czonych do nich przewodów interfejsowych
-parametrów komory GTEM
-parametrów urz¹dzeñ
-parametrów sieci sztucznej
+ï»¿X0100
+Poziom zaburzeÅ„ przewodzonych emitowanych przez urzÄ…dzenia nie zaleÅ¼y od:
+doÅ‚Ä…czonych do nich przewodÃ³w interfejsowych
+parametrÃ³w komory GTEM
+parametrÃ³w urzÄ…dzeÅ„
+parametrÃ³w sieci sztucznej

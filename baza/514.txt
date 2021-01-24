@@ -1,7 +1,7 @@
-X1000
-Amplituda napiêcia indukowanego w d³ugim odcinku linii napowietrznej pod wp³ywem oddzia³ywania pola powstaj¹cego podczas wy³adowania atmosferycznego zale¿y od:
-materia³u, z którego wykonano liniê napowietrzn¹
-amplitudy pr¹du p³yn¹cego podczas wy³adowania liderowego
-amplitudy pr¹du p³yn¹cego podczas wy³adowania g³ównego
-czasu opadania impulsu pr¹du wy³adowania
+ï»¿X1000
+Amplituda napiÄ™cia indukowanego w dÅ‚ugim odcinku linii napowietrznej pod wpÅ‚ywem oddziaÅ‚ywania pola powstajÄ…cego podczas wyÅ‚adowania atmosferycznego zaleÅ¼y od:
+materiaÅ‚u, z ktÃ³rego wykonano liniÄ™ napowietrznÄ…
+amplitudy prÄ…du pÅ‚ynÄ…cego podczas wyÅ‚adowania liderowego
+amplitudy prÄ…du pÅ‚ynÄ…cego podczas wyÅ‚adowania gÅ‚Ã³wnego
+czasu opadania impulsu prÄ…du wyÅ‚adowania
 
