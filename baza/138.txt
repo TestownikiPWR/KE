@@ -1,5 +1,5 @@
 ﻿X0110
-[img]6.jpg[/img]: Ktore z poniższych zdan poprawnie opisuja rysunek
+[img]6.jpg[/img]
 B gorzej tłumi zakłócenia niż D
 AiD przedstawiają nieprawidłowo zainstalowany filtr
 D jest gorszym rozwiązaniem niż C
