@@ -1,4 +1,4 @@
-X0001
+X0010
 Znaczne obniżenie wartości napięć wywołanych wyładowaniami atmosferycznymi w przewodach umieszczonych w budynku można osiągnąć: (wybierz jedną)
 przez tworzenie dużych pętli z układanych z przewodów
 poprowadzenie przewodów po zewnętrznej ścianie budynku
