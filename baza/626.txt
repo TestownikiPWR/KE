@@ -1,4 +1,4 @@
-X0001
+X0100
 Największe dopuszczalne natężenie pola elektromagnetycznego w miejscach dostępnych dla ludności w paśmie UMTS 2100MHz w Polsce wynosi: (wybierz jedną)
 20 V/m
 61 V/m
