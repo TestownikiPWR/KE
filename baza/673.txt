@@ -1,0 +1,6 @@
+X1100
+Parametry charakteryzujące ośrodek w którym następuje propagacja fal to (wybierz 2):
+Przenikalność dielektryczna i magnetyczna ośrodka
+Impedancja falowa ośrodka
+Impedancja nadajnika/odbiornika
+Wilgotność środowiska

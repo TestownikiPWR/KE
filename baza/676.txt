@@ -1,0 +1,6 @@
+X0001
+Oddziaływanie HPM obserwujemy na częstotliwościach. Wybierz jedną odpowiedź
+Dziesiątek MHz
+Dziesiątek kHz i pojedynczych MHz
+Rzędu pojedynczych Hz
+Setek MHz i pojedynczych GHz

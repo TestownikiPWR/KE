@@ -1,0 +1,6 @@
+X0001
+Odporność jest to (wybierz 1):
+Minimalny poziom sygnału zaburzającego, który uszkadza badane urządzenie
+Reakcja badanego urządzenia na sygnał zaburzający
+Poziom sygnału zaburzającego przy którym nie obserwuje się reakcji badanego urządzenia
+Maksymalny poziom sygnału zaburzającego przy którym badane urządzenie działa poprawnie

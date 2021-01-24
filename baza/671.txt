@@ -1,0 +1,6 @@
+X0001
+Aby ograniczyć promieniowanie z przewodów zasilających podczas pomiaru zaburzeń promieniowanych na otwartym poligonie stosuje się:
+Stosuje się filtry środkowo-przepustowe
+Wykorzystuje się sieci sztuczne
+Stosuje się filtry górno-przepustowe
+Nie ogranicza się promieniowania z przewodów zasilających

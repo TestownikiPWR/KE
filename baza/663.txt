@@ -1,0 +1,7 @@
+X0010
+Parametrem anteny związanym z propagacją fal elektromagnetycznych nie jest(wybierz 1):
+Współczynnik antenowy
+Kierunkowość 
+Sposób zainstalowania anteny
+Zysk 
+

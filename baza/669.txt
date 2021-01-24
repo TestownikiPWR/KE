@@ -1,0 +1,6 @@
+X0001
+Transformator prądowy umożliwia pomiar prądu zaburzeń dzięki:
+Możliwości połączenia sieci sztucznej typu V
+Znajomość przekładni transformatora w funkcji częstotliwości 
+Możliwość połączenia sieci sztucznej typu delta
+Możliwość podłączenia analizatora widma

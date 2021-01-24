@@ -1,0 +1,6 @@
+X1000
+Kompatybilność elektromagnetyczna wewnętrzna dotyczy zagadnień związanych z (wybierz 1):
+Oddziaływaniem zaburzeń elektromagnetycznych na urządzenia , systemy i instalacje
+Prawidłowym współdziałaniem modułów komputera
+Wpływem pól elektromagnetycznych na rośliny
+Pomiarem promieniowania słonecznego

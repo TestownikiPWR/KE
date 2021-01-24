@@ -1,0 +1,7 @@
+X11001
+Skuteczność ekranowania (wybierz 3):
+Jest powiązana z parametrami materiału (przenikalnością elektryczną i magnetyczną)
+Zależy od częstotliwości
+Jest wprost proporcjonalna do przenikalności elektrycznej a odwrotnie proporcjonalne do przenikalności magnetycznej
+Jej wartość zawsze zwiększa się wraz ze wzrostem częstotliwości
+Zależy od kierunku padania i polaryzacji

@@ -1,0 +1,6 @@
+X1000
+Aktualnie obowiązująca Dyrektywa EMC to (wybierz 1):
+Dyrektywy Komisji Europejskiej o kompatybilności elektromagnetycznej (EMC) 2014/30/UE
+Dyrektywy Komisji Europejskiej o kompatybilności urządzeń 2017/198/UE
+Dyrektywa Parlamentu Europejskiego i Rady dot. Kompatybilności elektromagnetycznej 2004/108/WE
+Dyrektywy Wspólnoty Europejskiej o kompatybilności 89/336/EWG

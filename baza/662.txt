@@ -1,0 +1,6 @@
+X1001
+Z uwagi na charakterystykę czasową zaburzenia dzielimy na (wybierz 2):
+Ciągłe 
+Szumowe
+Wąskopasmowe
+Krótkotrwałe

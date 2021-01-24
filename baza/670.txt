@@ -1,0 +1,6 @@
+X0100
+Anteny pomiarowe stosowane w pomiarach zaburzeń promieniowanych powinny umożliwiać pomiar zaburzeń o polaryzacji:
+Tylko poziomej
+Poziomej i pionowej
+Tylko pionowej
+Kołowej
