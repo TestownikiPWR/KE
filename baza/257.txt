@@ -1,5 +1,5 @@
 X01100
-[img]5.jpg[/img]:
+[img]5.jpg[/img]
 Filtr nadprądowy,
 Filtr zakłóceń symetrycznych,
 Filtr zakłóceń różnicowych,
