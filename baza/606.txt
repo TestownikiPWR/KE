@@ -1,0 +1,7 @@
+X1000
+Transformator prądowy umożliwia pomiar:
+prądu zaburzeń w torach sygnałowych
+natężenie pola
+mocy zaburzeń elektromagnetycznych promieniowanych z przewodów zasilających
+napięcia zaburzeń elektromagnetycznych (zakłóceń)
+

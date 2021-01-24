@@ -1,0 +1,6 @@
+X0100
+Maksymalna częstotliwość pracy absorberów ferrytowych (Absorber ferrytowy w postaci płytek posiada dobre właściwości odbiciowe w zakresie 30 MHz do 600 MHz):
+sięga 1 500MHz
+sięga 500MHz
+sięga 4 000MHz
+sięga 10 000MHz

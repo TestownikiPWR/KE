@@ -1,0 +1,6 @@
+X0001
+Rozmiar stołu obrotowego na otwartym poligonie do pomiaru zaburzeń promieniowanych zależy od: 
+maksymalnej częstotliwości pomiarowej 
+minimalnej częstotliwości pomiarowej
+zależy od ciężaru badanego urządzenia
+zależy od planowanego maksymalnego rozmiaru badanego urządzenia

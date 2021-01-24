@@ -1,0 +1,7 @@
+X0001
+Powstawanie wyładowań atmosferycznych do Ziemi związane jest z: (wybierz jedną)
+istnieniem naturalnego pola elektrycznego Ziemi
+powstaniem różnicy potencjałów między dwoma chmurami
+istnieniem naturalnego pola magnetycznego Ziemi
+powstaniem różnicy potencjałów między chmurą i Ziemią
+

@@ -1,0 +1,8 @@
+X001011
+Które z sformułowań poprawnie opisują impulsy typu NEMP?(wybierz trzy, wybierz wszystkie poprawne):
+Wartości szczytowe natężenie pola elektrycznego i magnetycznego nie zależą od mocy eksplodowanego ładunku i odległości od epicentrum
+Mechanizm generacji impulsu nie zależy od wysokości wybuchu jądrowego
+Natężenie pola elektrycznego powstającego podczas wybuchu w atmosferze jest mniejsze niż podczas wybuchu powierzchniowego
+Natężenie pola elektrycznego powstającego podczas wybuchu w atmosferze jest większe niż podczas wybuchu powierzchniowego
+Mechanizm generacji impulsu zależy od wysokości wybuchu jądrowego
+Wartości szczytowe natężenie pola elektrycznego i magnetycznego zależą od mocy eksplodowanego ładunku i odległości od epicentrum

@@ -1,0 +1,6 @@
+X0010
+W strefie ochronnej "pośredniej" pracownik dopuszczony do pracy w polu elektromagnetycznym może:
+nie może wchodzić do tej strefy
+przebywać po 2 godziny z przerwą po 2 godziny
+przebywać całą zmianę roboczą
+przebywać do 15 minut w czasie zmiany roboczej

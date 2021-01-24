@@ -1,0 +1,6 @@
+X1010
+Do pomiaru zaburzeń przewodzonych zgodnie z CISPR 16 jest używany: 
+detektor wartości średniej 
+detektor wartości rzeczywistej 
+detektor quasi-szczytowy
+detektor kwadratowy

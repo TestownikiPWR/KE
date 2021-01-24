@@ -1,0 +1,6 @@
+X0010
+Do którego z regionów radiokomunikacyjnych w zakresie radiofuzji i propagacji fal należy Polska zgodnie z normalizacją międzynarodową?
+Region_4
+Region_2
+Region_1
+Region_3

@@ -1,0 +1,6 @@
+X0010
+Amplituda impulsu pola elektrycznego występującego w przestrzeni pomiarowej symulatora równoległopłytowego zależy od:
+wartości impedancji obciążenia symulatora
+odległości między płytami symulatora
+kształtu impulsu wytwarzanego przez generator pobudzający
+czasu narastania udaru

@@ -1,0 +1,6 @@
+X0001
+Kompatybilność elektromagnetyczna dotyczy zagadnień związanych z: 
+prawidłowym działaniem systemów telewizyjnych i radiofonicznych 
+pomiarem mocy promieniowanej przez nadajniki radiokomunikacyjne 
+wpływem pól elektromagnetycznych na rośliny 
+oddziaływaniem urządzeń, systemów i instalacji na środowisko

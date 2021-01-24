@@ -1,0 +1,9 @@
+X10000
+Do celów obliczeniowych i modelowania przyjmuje sie że średnia wartość pojemności człowieka względem ziemi wynosi:
+150pf
+300mf
+1500mf
+3000pf
+30nf
+
+

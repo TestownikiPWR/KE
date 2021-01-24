@@ -1,0 +1,6 @@
+X1000
+Minimalna częstotliwość pomiaru zaburzeń promieniowanych na otwartym poligonie pomiarowym: 
+jest tym mniejsza im większa jest średnica oczka siatki metalowej, której wyłożono obszar Elipsy Fresnela.
+nie należy od przewodności blachy, ani średnicy oczka siatki, którymi wykładany jest obszar elipsy Fresnela
+jest tym mniejsza im mniejsza jest średnica oczka siatki metalowej, którą wyłożono obszar Elipsy Fresnela
+zależy od przewodności blachy, którą wyłożono obszar elipsy Fresnela

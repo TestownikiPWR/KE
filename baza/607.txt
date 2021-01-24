@@ -1,0 +1,8 @@
+X100100
+Które ze sformułowań poprawnie opisują jednostki kompetentne i jednostki notyfikowane? (wielokrotny wybór)
+Jednostki notyfikowane powinny podlegać regularnej kontroli ze strony właściwych jednostek akredytujących
+Jednostki notyfikowane powinny podlegać kontroli ze strony właściwych jednostek akredytujących tylko w przypadku zgłoszenia nieprawidłowości ich funkcjonowania
+Państwa Członkowskie WE powinny weryfikować kompetencje jednostek ubiegających się o notyfikację.
+Państwa Członkowskie WE nie mają prawa weryfikować w żaden sposób kompetencji jednostek ubiegających się o notyfikację.
+spełniają wymagania norm serii PN-EN 45000
+spełniają wymagania norm serii PN-EN EN61000-6

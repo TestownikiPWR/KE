@@ -1,0 +1,7 @@
+X01100
+Podstawowe parametry impulsu elektromagnetycznego powstającego podczas wybuchu jądrowego na dużej wysokości to:
+E < 40 kV/m, H < 200 A/m
+czas narastania impulsu < 10ns, czas trwania impulsu > 100ns
+E< 100 kV/m, H < 300 A/m
+czas narastania impulsu < 5ns, czas trwania impulsu > 200ns
+E< 10 kV/m, H < 50 A/m

@@ -1,0 +1,7 @@
+X0100
+Podstawową metoda pomiaru promieniowanego pola jest:
+pomiar w komorze TEM
+pomiar na poligonie pomiarowym (OATS)
+pomiar metodą Fromy
+pomiar w komorze ekranowanej
+

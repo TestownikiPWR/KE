@@ -1,0 +1,6 @@
+X1000
+Jakiego zakresu częstotliwości dotyczy większość aktualnie obowiązujących wymagań EMC, uregulowanych standardami międzynarodowymi? (wybierz jedną):
+od 30 MHz do 1 GHz
+od 100 Hz do 10 GHz
+od 100MHz do 6 GHz
+od 9 kHz do 3GHz

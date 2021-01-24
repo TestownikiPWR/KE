@@ -1,0 +1,8 @@
+X0010
+W celu zabezpieczenia hal produkcyjnych przez powstawaniem ładunków elektrostatycznych podłogi hal: (wybierz jedną)
+wykłada się materiałem o bardzo dużej przewodności i chropowatej powierzchni
+wykłada się materiałem stratnym o chropowatej powierzchni
+wykłada się materiałem stratnym o bardzo gładkiej powierzchni
+wykłada się materiałem o bardzo dużej przewodności i gładkiej powierzchni
+
+

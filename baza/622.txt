@@ -1,0 +1,6 @@
+X1000
+Cęgi absorpcyjne są rodzajem:
+transformatora prądowego
+sondy napięciowej
+generatora zaburzeń impulsowych
+miernika zakłóceń

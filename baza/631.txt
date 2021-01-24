@@ -1,0 +1,6 @@
+X0010
+Pola elektromagnetyczne celowo wytwarzane są podczas:(wybierz jedną)
+badania wrażliwości urządzeń na wyładowania elektrostatyczne
+badania wrażliwości urządzeń metodami pośrednimi
+przesyłania drogą radiową sygnałów telefonii komórkowej
+badania emisyjności urządzeń

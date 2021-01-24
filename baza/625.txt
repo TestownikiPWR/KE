@@ -1,0 +1,7 @@
+X0010
+Źródłami impulsowych pól elektromagnetycznych o nanosekundowych i krótszych czasach narastania się: (wybierz jedną)
+wybuchy jądrowe
+wyładowania atmosferyczne
+wyładowania elektrostatyczne
+procesy łączeniowe w liniach energetycznych
+

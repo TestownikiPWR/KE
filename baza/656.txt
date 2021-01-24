@@ -1,0 +1,6 @@
+X0010
+Integralną częścią urządzenia sprzęgająco-separującego współpracującego z generatorem 1.2/50 i 8/20 mikrosekund jest: 
+odbiornik pomiarowy
+filtr górnoprzepustowy
+filtr dolnoprzepustowy
+przewód testowy

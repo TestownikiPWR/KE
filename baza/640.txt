@@ -1,0 +1,6 @@
+X0010
+W praktyce za pole dalekie od źródła promieniowania o największym wymiarze geometrycznym d przyjmuje się obszar w odległości?
+r >2*d/lambda
+r>=d^2 * lambda / 2
+r>2 * d^2 / lambda
+r>= d * lambda / 2

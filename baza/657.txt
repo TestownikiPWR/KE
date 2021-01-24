@@ -1,0 +1,6 @@
+X0001
+Symulatory promieniujące stosuje się do badania: 
+emisyjności urządzeń 
+wrażliwości urządzeń na ciągle pola elektromagnetyczne
+wrażliwości urządzeń na zaburzenia w obwodach zasilania
+wrażliwości urządzeń na wyładowania elektrostatyczne

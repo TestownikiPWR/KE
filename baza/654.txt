@@ -1,0 +1,6 @@
+X0001
+Układ anten ramowych podwójnie obciążonych może służyć do badania emisyjności dla: 
+tylko składowej magnetycznej 
+składowej elektrycznej tylko w płaszczyźnie X i magnetycznej w płaszczyznach Y i Z
+tylko składowej elektrycznej
+składowej elektrycznej i magnetycznej

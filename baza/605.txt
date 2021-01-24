@@ -1,0 +1,7 @@
+X01001
+Minimalizujemy rozpraszanie elektromagnetyczne w torach przewodowych przez: (wybierz dwie)
+stosowanie transformatorów separujących w torach kablowych
+ekranowanie torów kablowych
+wstawianie filtrów górnoprzepustowych
+pupinizację torów kablowych
+symetryzację torów kablowych

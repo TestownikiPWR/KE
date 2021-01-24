@@ -1,0 +1,6 @@
+X0010
+Dopuszczalny poziom narażenia w strefie pośredniej przez częstotliwości 27 MHz (pasmo ISM) w Polsce wynosi:
+20 V/m
+240 V/m
+7 V/m
+60 V/m

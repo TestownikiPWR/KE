@@ -1,0 +1,4 @@
+X10
+Czy poniższe zdanie jest prawdziwe? Skrętka ekranowana zapewnia większe tłumienie sprzężeniowe niż skrętka nieekranowana? 
+Prawda
+Falsz

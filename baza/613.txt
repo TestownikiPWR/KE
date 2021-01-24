@@ -1,0 +1,6 @@
+X0010
+W urządzeniach, których geometryczne wymiary są dużo mniejsze od długości fali, zaburzenia promieniowane są emitowane głównie przez:
+otwory w obudowie
+obudowę
+kable dołączone do urządzenia
+filtr sieciowy

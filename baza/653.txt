@@ -1,0 +1,6 @@
+X0100
+Źródłem impulsów pola elektromagnetycznego o czasach narastania rzędu mikrosekund są: 
+wyładowania elektrostatyczne 
+wyładowania atmosferyczne
+przepięcia w obwodach zasilania
+wybuchy nuklearne

@@ -1,0 +1,6 @@
+X0100
+Maksymalna wartość amplitudy impulsów napięcia stosowanego w badaniach wrażliwości na pośrednie oddziaływanie wyładowań elektrostatycznych (metoda stykowa) wynosi:
+25kV
+8kV
+15kV
+40kV

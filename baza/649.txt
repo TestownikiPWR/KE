@@ -1,0 +1,6 @@
+X0100
+Pomiar zaburzeń promieniowanych w komorze bezodbiciowej: 
+wymaga obrotu badanego urządzenia w zakresie kątów od O do 180 stopni 
+polega na pomiarze maksymalnej wartości natężenia pola promieniowanego na każdej częstotliwości pomiarowej
+wymaga pomiaru promieniowanej mocy pola elektromagnetycznego
+wymaga pomiaru natężenia pola magnetycznego

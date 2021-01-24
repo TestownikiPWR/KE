@@ -1,0 +1,6 @@
+X0010
+Poziom zaburzeń zewnętrznych podczas pomiaru emisyjności na poligonie powinien być niższy o:
+X=4 dB
+X=3 dB
+X=6 dB
+X=8 dB

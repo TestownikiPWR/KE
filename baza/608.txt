@@ -1,0 +1,6 @@
+X0111
+Jeżeli pomiar detektorem szczytowym nie daje pozytywnego wyniku to:
+jest wymagane obniżenie poziomu ostrości próby
+dodatkowy test za pomocą detektora wartości średniej nie jest wymagany
+należy wstrzykiwać prądy w przewody zasilające urządzenia i obserwować podatność
+przeprowadza się pomiar z detektorem quasi-szczytowym w miejscach przekroczenia limitu

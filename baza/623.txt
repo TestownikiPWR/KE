@@ -1,0 +1,6 @@
+X0100
+Zaburzenie wywołane w krótkim odcinku przewodu impulsem elektromagnetycznym ma charakter:
+rosnącej fali oscylacyjnej
+gasnącej fali oscylacyjnej
+fali oscylacyjnej
+impulsu opisanego funkcją podwójne eksponencjalną

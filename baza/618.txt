@@ -1,0 +1,6 @@
+X1000
+Impuls 10/700us stosowany jest do badania wrażliwości urządzeń:
+metodą pośrednią na zaburzenia rozchodzące się w przewodach telekomunikacyjnych
+metodą pośrednią na zaburzenia rozchodzące się w przewodach zasilających
+metodą pośrednią na zaburzenia rozchodzące się w przewodach antenowych
+metodą bezpośrednią

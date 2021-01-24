@@ -1,0 +1,6 @@
+X0100
+W celu zabezpieczenia miernika zaburzeń przed uszkodzeniem przed przepięciami stosuje się:
+filtry górnoprzepustowe
+filtry dolnoprzepustowe
+nie stosuje się zabezpieczeń
+elementy zabezpieczające w postacie "iskierników"

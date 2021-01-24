@@ -1,0 +1,5 @@
+X111
+Do definicji związanych z rozpraszaniem informacji użtecznej dopasuj właściwe pojęcia.(Tutaj już są dopasowane)
+droga, która sygnał powinien być przesłany - kanał podstawowy 
+droga, która sygnał wydostaje w sposób niezamierzony na zewnątrz - kanał ujawniający
+proces fizyczny mający na celu odtworzenie sygnału źródłowego z sygnału, wydostaje się na zewnątrz urządzenia - detekcja informacji użytecznej
