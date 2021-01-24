@@ -1,4 +1,5 @@
-﻿X1100
+﻿X0001
+
 Źródłem impulsów elektromagnetycznych o czasach narostu rzędu nanosekund są:
 wyładowania elektrostatyczne
 wybuchy nuklearne
