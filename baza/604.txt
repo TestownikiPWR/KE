@@ -1,7 +1,8 @@
-X01000
+X001000
 Obowiązującą obecnie w Unii Europejskiej Dyrektywą dotyczącą zagadnień kompatybilności elektromagnetycznej jest Dyrektywa:
 93/68/EEC
-2004/108/WE
+2004/108/WE(ta jest poprawna jeżeli nie ma tej drugiej)
+2014/30/UE
 89/336/EWG
 91/32/EEC
 2007/38/WE
