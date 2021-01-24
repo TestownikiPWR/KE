@@ -1,4 +1,4 @@
-X0010
+X1000
 (Jest takie pytanie ale z innymi odpowiedziami) Integralną częścią urządzenia sprzęgająco-separującego współpracującego z generatorem 1.2/50 i 8/20 mikrosekund jest: 
 dławik sprzęgający
 filtr górnoprzepustowy
