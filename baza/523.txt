@@ -1,5 +1,5 @@
 ﻿X0100
-[img]9.jpg[/img]:
+[img]9.jpg[/img]
 natężenie składowej elektrycznej
 definicja energetyczna
 definicja polowa
